@@ -1,0 +1,60 @@
+<nav class="navbar navbar-static-top navbar-dark bg-inverse">
+  <button class="navbar-toggler hidden-md-up" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar2">
+      &#9776;
+  </button>
+  <div class="hidden-md-up" style="display: inline;">
+    <span class="navbar-brand-mobile">SSLA</span>
+  </div>
+  <div class="collapse navbar-toggleable-md" id="exCollapsingNavbar2">
+    <ul class="nav navbar-nav collapsed-menu">
+        <a class="nav-item nav-link"></a>
+        <a class="nav-item nav-link" [routerLink]="['/']">SSLA>Submission</a>
+        <a class="nav-item nav-link" [routerLink]="['/submissions']">Program</a>
+        <a class="nav-item nav-link" [routerLink]="['/comittee']">Committee</a>
+        <a class="nav-item nav-link" [routerLink]="['/registration']">Registration</a>
+        <a class="nav-item nav-link" [routerLink]="['/venue']">Venue</a>
+        <a class="nav-item nav-link" [routerLink]="['/previous-editions']">Previous Editions</a>
+    </ul>
+  </div>
+
+  <div class="container hidden-sm-down">
+    <a class="navbar-brand" [routerLink]="['/']">SSLA</a>
+    <ul class="nav navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link" [routerLink]="['/submissions']">Submission</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" [routerLink]="['/program']">Program</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" [routerLink]="['/comittee']">Committee</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" [routerLink]="['/registration']">Registration</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" [routerLink]="['/venue']">Venue</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" [routerLink]="['/previous-editions']">Previous Editions</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+<div class="jumbotron">
+  <div class="container text-center">
+    <h1 class="display-3">Summer School on Languages and Applications</h1>
+    <p>24 - 28 de Noviembre, MEMI, Cochabamba</p>
+    <p><a class="btn btn-primary btn-lg" href="#" role="button">Register Now »</a></p>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+    <router-outlet></router-outlet>
+  </div>
+  <hr>
+
+  <footer>
+    <p>© SSLA 2016</p>
+  </footer>
+</div>
