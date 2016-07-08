@@ -7,14 +7,27 @@
  **********************************************************************************************/
 /** Map relative paths to URLs. */
 const map: any = {
-  moment: 'vendor/moment/moment.js',
-  'ng2-bootstrap': 'vendor/ng2-bootstrap/ng2-bootstrap.js'
+  'bootstrap': 'vendor/bootstrap/dist',
+  'jquery': 'vendor/jquery/dist',
+  'tether': 'vendor/tether/dist'
 };
 
 /** User packages configuration. */
 const packages: any = {
-  'vendor/ng2-bootstrap': {
-    defaultExtension: 'js',           
+  'jquery': {
+    main: 'jquery.min',
+    format: 'global',
+    defaultExtension: 'js'
+  },
+  'bootstrap': {
+    main: 'js/bootstrap.min',
+    format: 'global',
+    defaultExtension: 'js'
+  },
+  'tether': {
+    main: 'js/tether.min',
+    format: 'global',
+    defaultExtension: 'js'
   }
 };
 
