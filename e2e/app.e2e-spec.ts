@@ -1,10 +1,10 @@
-import { SlaaPage } from './app.po';
+import { SslaPage } from './app.po';
 
-describe('slaa App', function() {
-  let page: SlaaPage;
+describe('ssla App', function() {
+  let page: SslaPage;
 
   beforeEach(() => {
-    page = new SlaaPage();
+    page = new SslaPage();
   });
 
   it('should display message saying app works', () => {

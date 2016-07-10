@@ -1,4 +1,4 @@
-export class SlaaPage {
+export class SslaPage {
   navigateTo() {
     return browser.get('/');
   }
