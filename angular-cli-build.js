@@ -18,7 +18,8 @@ module.exports = function(defaults) {
       '@angular/**/*.+(js|js.map)',
       'jquery/dist/**/*.+(js|min.map)',
       'bootstrap/dist/**/*.+(min.js|min.css|.map)',
-      'tether/dist/**/*.+(min.js|min.css|.map)'
+      'tether/dist/**/*.+(min.js|min.css|.map)',
+      'ng2-translate/**/*.js',
     ]
   });
 };

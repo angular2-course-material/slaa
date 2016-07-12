@@ -9,7 +9,8 @@
 const map: any = {
   'bootstrap': 'vendor/bootstrap/dist',
   'jquery': 'vendor/jquery/dist',
-  'tether': 'vendor/tether/dist'
+  'tether': 'vendor/tether/dist',
+  'ng2-translate': 'vendor/ng2-translate'
 };
 
 /** User packages configuration. */
@@ -28,7 +29,10 @@ const packages: any = {
     main: 'js/tether.min',
     format: 'global',
     defaultExtension: 'js'
-  }
+  },
+  'ng2-translate': {
+    defaultExtension: 'js'
+  },
 };
 
 ////////////////////////////////////////////////////////////////////////////////////////////////
