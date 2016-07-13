@@ -6,15 +6,53 @@
   },
   "INTRO": {
     "TITLE": "About SSLA 2016",
-    "IMPORTANT_DATES": "Important Dates",
     "DESCRIPTION_1": "SLA 2016 is the second summer school on Programming Languages and Applications, organized by the MEMI reserach cetner of the 'Universidad Mayor de San Simon'.",
     "DESCRIPTION_2": "The school is intended to provide interested students with an overview of some major topics and research issues in the area of programming languages and software engineering. The school will feature advice and guidance from leading software engineering researchers based upon their personal experiences and insights into the contemporary community. ",
     "DESCRIPTION_3": "A goal of this school will be to provide a supportive yet questioning setting in which students, profesors, researchers and profesionals can present their work. The school will also help participants to establish a research and social network with their local peers and also with international researches in the area.",
     "DESCRIPTION_4": "There are different events were you can get involved:",
-    "DESCRIPTION_5": "",
-    "DESCRIPTION_6": "",
-    "DESCRIPTION_7": "",
-    "DESCRIPTION_8": "",
-    "DESCRIPTION_9": ""
+    "EVENTS": {
+      "EVENT_1": "<b>Tutorials:</b> The tutorials will cover basic topics about programming languages and software enginnering. The tutorials are given by international experts in the field.",
+      "EVENT_2": "<b>Keynotes:</b> The keynotes will cover advances topics on software engineering.",
+      "EVENT_3": "<b>Talks:</b> The school provides slots to get the opportunity to participants shows their work. Participants will be able to discuss their goals, methods, and results at an early stage in their research (or projects) and receive useful guidance and feedback on various aspects of their work.",
+      "EVENT_4": "<b>Show us your project:</b> Students are invited to present their bachelor theses or projects. Ample time for informal and small group interactions will allow the attendees to dig deeper into pertinent questions and concerns.",
+      "EVENT_5": "<b>Discussion Panels:</b> The school will host different discussion panels about different topics: Bolivian Women in Computer Science and Research in Bolivan Universities."
+    },
+    "DESCRIPTION_5": "Due to the international profile of the lectures, good understanding of English is necessary for all participants.",
+    "IMPORTANT_DATES": {
+      "TITLE": "Fechas Importantes",
+      "DATES": {
+        "DATE_1": "Tutorial Application deadline: to define",
+        "DATE_2": "Tutorial Acceptance Notification: to define",
+        "DATE_3": "Talk Application deadline: to define ",
+        "DATE_4": "Talk Acceptance Notification: to define",
+        "DATE_5": "Show us your project registration: to define"
+      }
+    }, 
+    "DESCRIPTION_6": "The school is free o charge for studends that actively participate in the school (given a talk or showing us their projects).<br/>The tutorials are primarily targeted to committed pregraduate and postgraduate students in Latin American region, but students from any part of the world are also welcome to apply.<br/>Profesionalas also are welcome to apply.<br/>Students may consider to apply to an scholarship for all events."
+  },
+  "REGISTRATION": {
+    "TITLE": "Registro",
+    "PREREQUISITES": "Prerequisitos",
+    "PREREQUISITES_CONTENT": "There is not prerequisites, but due to the international profile of the lectures, for some talks and tutorial you may need a good undersanding of English.",
+    "TUTORIALS": "Tutoriales",
+    "TUTORIALS_CONTENT": "The tutorials has a limited number of positions available. For this reason, Applicants should fill the following google form. Notification of acceptance will be communicated on (a date). Pre-acceptance for foreign students is possible if explicitly requested.",
+    "TALKS": "Charlas",
+    "TALKS_CONTENT": "We invite to partipate to local profesors to give a talk about their on going or finish research projects. Profesionals at the industry are also welcome to apply and present their current projects and/or their experience in the industry.",
+    "SHOW_PROJECT": "Show us your projects",
+    "SHOW_PROJECT_CONTENT": "People that want to participate in the show us your project section, should fill the following google form.<br/>People that register their bachelor project proposals in the university system are very welcome to present their proposals.",
+    "PANELS": "Paneles de Discusion",
+    "PANELS_CONTENT": "All participants are welcome to participate in the discucsion panels by asking questions during the session to the panelists.<br/>Professors/Industrials/Professionals are welcome to participate as panelist, to be part of the panel you need to send us an email to (an email).",
+    "PRICES": "Precios",
+    "PRICES_CONTENT": "The school is free o charge for studends that actively participate in the school (given a talk or showing us their projects).<br/>The tutorials are primarily targeted to committed pregraduate and postgraduate students in Latin American region, but students from any part of the world are also welcome to apply.<br/>But profesionals also are welcome to apply.<br/>Students may consider to apply to an scholarship for all events.",
+    "PRICES_SHEET": {
+      "PRICE_1": "Tutorial",
+      "PRICE_2": "All Talks + KeyNotes",
+      "PRICE_3": "Paneles de Discusion",
+      "PRICE_4": "Show us your projects",
+      "FREE": "Gratis",
+      "STUDENT": "Estudiante",
+      "PROFESIONAL": "Profesional"
+    },
+    "QUESTIONS": "Any questions related to the shool should also be sent to that address."
   }
 }
