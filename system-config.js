@@ -57,6 +57,7 @@ var barrels = [
     'app/comittee',
     'app/registration',
     'app/previous-editions',
+    'app/banquet',
 ];
 var cliSystemConfigPackages = {};
 barrels.forEach(function (barrelName) {

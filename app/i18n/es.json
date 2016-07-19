@@ -1,4 +1,15 @@
 {
+  "NAVBAR": {
+    "SLAA": "SSLA",
+    "HOME": "Home",
+    "SUBMISSION": "Calls",
+    "PROGRAM": "Program",
+    "COMITTEE": "Guests",
+    "VENUE": "Location",
+    "REGISTRATION": "Registration",
+    "PREVIOUS_EDITIONS": "Previous Editions",
+    "BANQUET": "Banquet"
+  },
   "BANNER": {
     "TITLE_PT1": "Escuela de Verano en Lenguajes",
     "TITLE_PT2": "y Aplicaciones",
@@ -56,9 +67,45 @@
     "QUESTIONS": "Any questions related to the shool should also be sent to that address."
   },
   "PROGRAM": {
-    "TALKS_KEYNOTES": "Talks and Keynotes",
-    "TUTORIALS": "Tutorials",
-    "SHOW_PROJECT": "Show Us Your Project",
-    "DISCUSSION_PANELS": "Discussion Panels"
+    "TALKS_KEYNOTES": "Charlas",
+    "TUTORIALS": "Tutoriales",
+    "SHOW_PROJECT": "Presentacion de Proyectos",
+    "DISCUSSION_PANELS": "Paneles de discusion"
+  },
+  "VENUE": {
+    "TITLE": "Location",
+    "MEMI_ADDRESS": "MEMI, Universidad Mayor de San Simon. Cochabamba, Bolivia",
+    "HOTELS": "Hoteles",
+    "HOTELS_DESCRIPTION": "",
+    "TRANSPORT": "Transport",
+    "TRANSPORT_DESCRIPTION": ""
+  },
+  "COMITTEE": {
+    "TITLE": "Guests"
+  },
+  "SUBMISSION": {
+    "TITLE": "Calls",
+    "GOAL_AND_SCOPE": "Goal and Scope",
+    "GOAL_AND_SCOPE_DESCRIPTION": "The summer school is intended to provide interested students with an overview of some major topics and research issues in computer science. A goal of this school will be to provide a supportive yet questioning setting in which students, professors, researchers and professionals can present their work. The school will also help participants to establish a research and social network with their local peers and also with international researchers in the area.",
+    "TALKS": "Call for Talks",
+    "TALKS_DESCRIPTION": "We invite local professors to give a talk about their ongoing or finished research projects. Professionals from industry are also welcome to apply and present their current projects and/or their experience in the industry. Talks are subject to submission and acceptance of an abstract (max 1,800 characters) and a short bio. Talk proposals should be submitted to the following link <link>. Accepted talks' speakers are expected to present and discuss their research/experience. ",
+    "SHOW_PROJECT": "Call for Participation: Show your project",
+    "SHOW_PROJECT_DESCRIPTION": "Students are invited to present their bachelor theses or projects. Ample time for informal and small group interactions will allow the attendees to dig deeper into pertinent questions and concerns. People that want to participate in the Show Your Project section, should fill the following google form <link>. People that register their bachelor project proposals in the university system are very welcome to present their proposals.",
+    "PANELS": "Call for Participation: Discussion Panels",
+    "PANELS_0": "All participants are welcome to participate in the discussion panels by asking questions to the panelists during the session.",
+    "PANELS_1": "Professors/Industry Professionals are welcome to participate as panelists. To be part of the panel you need to send us an email to (an email). This year, the school will present the following discussion panels:",
+    "PANELS_2": "Bolivian Women in Computer Science",
+    "PANELS_3": "Research in Bolivian Universities",
+    "IMPORTANT_DATES": "Important dates",
+    "IMPORTANT_DATES_1": "Show Your Project registration deadline:  Oct. 28, 2016",
+    "IMPORTANT_DATES_2": "Discussion Panels Application deadline:  Oct. 28, 2016",
+    "IMPORTANT_DATES_3": "Talk application deadline: Sept. 22, 2016",
+    "IMPORTANT_DATES_4": "Talk acceptance Notification: Oct. 21, 2016"
+  },
+  "BANQUET": {
+    "TITLE": "Banquet",
+    "DESC_1": "On Wednesday all participants are invited to participate in the banquet. Note that the registration price does not include the banquet, each participant will pay for his/her own meal.",
+    "DESC_2": "However, since we need to book the place in advance, you need to send us a confirmation if you want to participate in the banquet.",
+    "DESC_3": "Place: We have not decided yet the banquet place."
   }
 }
