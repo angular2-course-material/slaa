@@ -6,6 +6,7 @@ import { ComitteeComponent } from './comittee';
 import { RegistrationComponent } from './registration';
 import { VenueComponent } from './venue';
 import { PreviousEditionsComponent } from './previous-editions';
+import { BanquetComponent } from './banquet';
 
 export const routes: RouterConfig = [
   {
@@ -31,6 +32,10 @@ export const routes: RouterConfig = [
   {
     path: 'venue',
     component: VenueComponent
+  },
+  {
+    path: 'banquet',
+    component: BanquetComponent
   },
   {
     path: 'previous-editions',

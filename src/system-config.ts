@@ -62,6 +62,7 @@ const barrels: string[] = [
   'app/comittee',
   'app/registration',
   'app/previous-editions',
+  'app/banquet',
   /** @cli-barrel */
 ];
 

@@ -1,4 +1,15 @@
 {
+  "NAVBAR": {
+    "SLAA": "SSLA",
+    "HOME": "Home",
+    "SUBMISSION": "Calls",
+    "PROGRAM": "Program",
+    "COMITTEE": "Guests",
+    "VENUE": "Location",
+    "REGISTRATION": "Registration",
+    "PREVIOUS_EDITIONS": "Previous Editions",
+    "BANQUET": "Banquet"
+  },
   "BANNER": {
     "TITLE_PT1": "Escuela de Verano en Lenguajes",
     "TITLE_PT2": "y Aplicaciones",
@@ -56,10 +67,10 @@
     "QUESTIONS": "Any questions related to the shool should also be sent to that address."
   },
   "PROGRAM": {
-    "TALKS_KEYNOTES": "Talks and Keynotes",
-    "TUTORIALS": "Tutorials",
-    "SHOW_PROJECT": "Show Us Your Project",
-    "DISCUSSION_PANELS": "Discussion Panels"
+    "TALKS_KEYNOTES": "Charlas",
+    "TUTORIALS": "Tutoriales",
+    "SHOW_PROJECT": "Presentacion de Proyectos",
+    "DISCUSSION_PANELS": "Paneles de discusion"
   },
   "VENUE": {
     "TITLE": "Location",
@@ -90,5 +101,11 @@
     "IMPORTANT_DATES_2": "Discussion Panels Application deadline:  Oct. 28, 2016",
     "IMPORTANT_DATES_3": "Talk application deadline: Sept. 22, 2016",
     "IMPORTANT_DATES_4": "Talk acceptance Notification: Oct. 21, 2016"
+  },
+  "BANQUET": {
+    "TITLE": "Banquet",
+    "DESC_1": "On Wednesday all participants are invited to participate in the banquet. Note that the registration price does not include the banquet, each participant will pay for his/her own meal.",
+    "DESC_2": "However, since we need to book the place in advance, you need to send us a confirmation if you want to participate in the banquet.",
+    "DESC_3": "Place: We have not decided yet the banquet place."
   }
 }
