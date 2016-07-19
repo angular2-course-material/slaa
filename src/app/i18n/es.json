@@ -71,5 +71,9 @@
   },
   "COMITTEE": {
     "TITLE": "Guests"
+  },
+  "SUBMISSION": {
+    "TITLE": "Calls",
+    "SUBMISSION_DESCRIPTION": ""
   }
 }

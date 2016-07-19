@@ -2,7 +2,7 @@
   "NAVBAR": {
     "SLAA": "SSLA",
     "HOME": "Home",
-    "SUBMISSION": "Submission",
+    "SUBMISSION": "Calls",
     "PROGRAM": "Program",
     "COMITTEE": "Guests",
     "VENUE": "Location",
@@ -81,5 +81,24 @@
   },
   "COMITTEE": {
     "TITLE": "Guests"
+  },
+  "SUBMISSION": {
+    "TITLE": "Calls",
+    "GOAL_AND_SCOPE": "Goal and Scope",
+    "GOAL_AND_SCOPE_DESCRIPTION": "The summer school is intended to provide interested students with an overview of some major topics and research issues in computer science. A goal of this school will be to provide a supportive yet questioning setting in which students, professors, researchers and professionals can present their work. The school will also help participants to establish a research and social network with their local peers and also with international researchers in the area.",
+    "TALKS": "Call for Talks",
+    "TALKS_DESCRIPTION": "We invite local professors to give a talk about their ongoing or finished research projects. Professionals from industry are also welcome to apply and present their current projects and/or their experience in the industry. Talks are subject to submission and acceptance of an abstract (max 1,800 characters) and a short bio. Talk proposals should be submitted to the following link <link>. Accepted talks' speakers are expected to present and discuss their research/experience. ",
+    "SHOW_PROJECT": "Call for Participation: Show your project",
+    "SHOW_PROJECT_DESCRIPTION": "Students are invited to present their bachelor theses or projects. Ample time for informal and small group interactions will allow the attendees to dig deeper into pertinent questions and concerns. People that want to participate in the Show Your Project section, should fill the following google form <link>. People that register their bachelor project proposals in the university system are very welcome to present their proposals.",
+    "PANELS": "Call for Participation: Discussion Panels",
+    "PANELS_0": "All participants are welcome to participate in the discussion panels by asking questions to the panelists during the session.",
+    "PANELS_1": "Professors/Industry Professionals are welcome to participate as panelists. To be part of the panel you need to send us an email to (an email). This year, the school will present the following discussion panels:",
+    "PANELS_2": "Bolivian Women in Computer Science",
+    "PANELS_3": "Research in Bolivian Universities",
+    "IMPORTANT_DATES": "Important dates",
+    "IMPORTANT_DATES_1": "Show Your Project registration deadline:  Oct. 28, 2016",
+    "IMPORTANT_DATES_2": "Discussion Panels Application deadline:  Oct. 28, 2016",
+    "IMPORTANT_DATES_3": "Talk application deadline: Sept. 22, 2016",
+    "IMPORTANT_DATES_4": "Talk acceptance Notification: Oct. 21, 2016"
   }
 }
