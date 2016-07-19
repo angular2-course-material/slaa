@@ -4,8 +4,8 @@
     "HOME": "Home",
     "SUBMISSION": "Submission",
     "PROGRAM": "Program",
-    "COMITTEE": "Committee",
-    "VENUE": "Venue",
+    "COMITTEE": "Guests",
+    "VENUE": "Location",
     "REGISTRATION": "Registration",
     "PREVIOUS_EDITIONS": "Previous Editions"
   },
@@ -70,5 +70,16 @@
     "TUTORIALS": "Tutorials",
     "SHOW_PROJECT": "Show Us Your Project",
     "DISCUSSION_PANELS": "Discussion Panels"
+  },
+  "VENUE": {
+    "TITLE": "Location",
+    "MEMI_ADDRESS": "MEMI, Universidad Mayor de San Simon. Cochabamba, Bolivia",
+    "HOTELS": "Hoteles",
+    "HOTELS_DESCRIPTION": "",
+    "TRANSPORT": "Transport",
+    "TRANSPORT_DESCRIPTION": ""
+  },
+  "COMITTEE": {
+    "TITLE": "Guests"
   }
 }
