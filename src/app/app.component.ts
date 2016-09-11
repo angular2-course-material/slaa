@@ -27,4 +27,9 @@ export class AppComponent {
 
     translate.use(language.split('-')[0]);
   }
+
+  changeLanguage(lang) {
+    console.log(lang);
+    this.translate.use(lang);
+  }
 }

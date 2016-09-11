@@ -47,6 +47,12 @@
         <a class="nav-link" [routerLink]="['/previous-editions']">{{"NAVBAR.PREVIOUS_EDITIONS" | translate}}</a>
       </li>
     </ul>
+
+    <div class="nav navbar-nav pull-xs-right">
+      <a class="nav-item nav-link" href="#" (click)="changeLanguage('es')">ES</a>
+      <span class="nav-item nav-link"  [style.marginLeft.px]="3">|</span>
+      <a class="nav-item nav-link" href="#" (click)="changeLanguage('en')" [style.marginLeft.px]="3">EN</a>
+    </div>
   </div>
 </nav>
 
