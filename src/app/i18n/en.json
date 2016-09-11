@@ -60,6 +60,12 @@
   },
   "PROGRAM": {
     "TALKS_KEYNOTES": "Talks and Keynotes",
+    "KEYNOTE_1_TITLE": "Word-sized Visualizations for Analysing Eye-Tracking Data",
+    "KEYNOTE_1_DESCRIPTION": "Eye-tracking studies the visual movements that we perform while looking at a visual stimulus. In order to transmit the results of eye-tracking studies, we need to order and summarize them. Tables and graphs are very useful, but are limited by space and require to look back and forth from the paragraphs. Word-sized visualizations are small versions of established visualizations, that make easier the integration with text and reduce the impact of space limitation. In this talk, we will explore the word sized visualizations to analyze data from an eye-tracking study.",
+    "KEYNOTE_2_TITLE": "Program Analysis",
+    "KEYNOTE_2_DESCRIPTION": "Formal analysis of programs aims to discover or infer facts about the programs, allowing us to optimize, transform and verify them. The goal is to build tools that help developers understand their programs and detect bugs. There are three families of analysis techniques: 1) static, where  we analyse programs without running them, in compile time 2) dynamic, where we analyse execution traces while the program is executed, and 3) hybrid, that combines static and dynamic aspects. For scalability reasons, static analysis is conservative: an abstract state represents two or more concrete states. On the other hand, dynamic analysis is more precise, since the concrete state of the program is known. In this talk, I will give a general vision of of formal program analysis and will present some current challenges.",
+    "TUTORIAL_1_TITLE": "Statistics Programming",
+    "TUTORIAL_1_DESCRIPTION": "Nowadays, it is necessary to use tools to process and analyse data. R es one of these tools, that has quickly become in the language of statistics, allowing us to write programs that read, handle and analyse data. In this tutorial, we will cover the basic concepts of R. We will start with variables and basic operations, and then continue with data structures like vectors, matrices, data frames and lists. We will also explore the graphic capacities of R.",
     "TUTORIALS": "Tutorials",
     "SHOW_PROJECT": "Project Presentation",
     "DISCUSSION_PANELS": "Discussion Panels"
