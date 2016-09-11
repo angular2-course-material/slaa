@@ -75,9 +75,9 @@
     "TITLE": "Lugar",
     "MEMI_ADDRESS": "MEMI, Universidad Mayor de San Simon. Cochabamba, Bolivia",
     "HOTELS": "Hoteles",
-    "HOTELS_DESCRIPTION": "",
+    "HOTELS_DESCRIPTION": "Esta informacion se actualizara pronto...",
     "TRANSPORT": "Transport",
-    "TRANSPORT_DESCRIPTION": ""
+    "TRANSPORT_DESCRIPTION": "Esta informacion se actualizara pronto..."
   },
   "COMITTEE": {
     "TITLE": "Invitados",
@@ -121,5 +121,11 @@
     "DESC_1": "El miércoles los participantes están invitados a participar del banquete oficial del evento. El precio de registro no cubre el banquete, por lo que cada participante será responsable por su consumo.",
     "DESC_2": "Dado que es necesario hacer reservaciones, por favor necesitamos que confirmes tu participación al momento de inscribirte al evento.",
     "DESC_3": "Lugar: Aún no se ha decidido el lugar."
+  },
+  "PREVIOUS_EDITIONS": {
+    "TITLE": "Ediciones Previas",
+    "DESCRIPTION": "La version 2016 de la Escuela de Verano en Lenguajes y Aplicationes fue precedida por:",
+    "EDITION_1": "Escuela de Verano en Lenguajes y Aplicaciones (SSLA) 2015",
+    "EDITION_1_DESC": "24-28 de Noviembre, Cochabamba, Bolivia"
   }
 }

@@ -75,9 +75,9 @@
     "TITLE": "Location",
     "MEMI_ADDRESS": "MEMI, Universidad Mayor de San Simon. Cochabamba, Bolivia",
     "HOTELS": "Hoteles",
-    "HOTELS_DESCRIPTION": "",
-    "TRANSPORT": "Transport",
-    "TRANSPORT_DESCRIPTION": ""
+    "HOTELS_DESCRIPTION": "This info will be updated soon...",
+    "TRANSPORT": "Transporte",
+    "TRANSPORT_DESCRIPTION": "This info will be updated soon..."
   },
   "COMITTEE": {
     "TITLE": "Guests",
@@ -128,5 +128,11 @@
     "DESC_1": "On Wednesday all participants are invited to participate in the banquet. Note that the registration price does not include the banquet, each participant will pay for his/her own meal.",
     "DESC_2": "However, since we need to book the place in advance, you need to send us a confirmation if you want to participate in the banquet.",
     "DESC_3": "Place: We have not decided yet the banquet place."
+  },
+  "PREVIOUS_EDITIONS": {
+    "TITLE": "Previous Editions",
+    "DESCRIPTION": "The 2016 edition of the School on Languages and Applications SSLA was preceded by one edition, as follows:",
+    "EDITION_1": "School on Languages and Applications (SSLA) 2015",
+    "EDITION_1_DESC": "November 24-28, Cochabamba, Bolivia"
   }
 }
