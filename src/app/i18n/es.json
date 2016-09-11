@@ -4,7 +4,7 @@
     "HOME": "Inicio",
     "SUBMISSION": "Convocatoria",
     "PROGRAM": "Programa",
-    "COMITTEE": "Guests",
+    "COMITTEE": "Invitados",
     "VENUE": "Lugar",
     "REGISTRATION": "Inscripción",
     "PREVIOUS_EDITIONS": "Ediciones Previas",
@@ -16,8 +16,8 @@
     "DATES": "24 - 28 de Noviembre"
   },
   "INTRO": {
-    "TITLE": "About SSLA 2016",
-    "DESCRIPTION_1": "SLA 2016 es la segunda versión de la Escuela de Verano en Lenguajes y Aplicaciones, organizado por el centro de investigación MEMI de la Universidad Mayor de San Simón.",
+    "TITLE": "Acerca de SSLA 2016",
+    "DESCRIPTION_1": "SSLA 2016 es la segunda versión de la Escuela de Verano en Lenguajes y Aplicaciones, organizado por el centro de investigación MEMI de la Universidad Mayor de San Simón.",
     "DESCRIPTION_2": "La Escuela de Verano pretende brindar a los estudiantes un resumen sobre tópicos relevantes y problemas de investigación en el área de lenguajes de programación e ingeniería de software. La escuela permitirá a investigadores líderes en ingeniería de software dar consejos y guiar a los estudiantes, en base a su experiencia personal y conocimiento.",
     "DESCRIPTION_3": "Una de las metas de esta escuela es proveer un ambiente de apoyo y a la vez inquisitivo, donde los estudiantes, profesores, investigadores y profesionales puedan presentar sus trabajos. La escuela también ayudará a los participantes a establecer una red con sus pares locales y con investigadores internacionales del área.",
     "DESCRIPTION_4": "Hay diferentes eventos donde participar:",
@@ -68,10 +68,11 @@
     "KEYNOTE_2_TITLE": "Análisis de Programas",
     "KEYNOTE_2_DESCRIPTION": "El análisis formal de programas busca descubrir y/o inferir hechos acerca de programas, permitiendo optimizar, transformar y verificarlos. El objetivo es construir herramientas que ayuden a desarrolladores entender sus programas y detectar errores. Existen tres familias de técnicas de análisis: 1) estático, donde se analizan los programas sin ejecutarlos, en tiempo de compilación, 2) dinámico, donde se analizan trazas de ejecución mientras estos corren, y 3) híbrido, que combinan aspectos estáticos y dinámicos. Por un tema de escalabilidad, el análisis estático es conservadores: un estado abstracto representa uno o más estados concretos. En cambio, el análisis dinámico es mas preciso, dado que se conoce el estado concreto del programa. En esta charla, daré una visión general de análisis formal de programas, y presentare algunos desafíos actuales.",
     "TUTORIAL_1_TITLE": "Programación Estadística",
-    "TUTORIAL_1_DESCRIPTION": "Hoy en día, es necesario manejar herramientas para procesar y analizar datos. R es una de estas herramientas, que rápidamente se ha convertido en la lengua franca de la estadística, permitiendo escribir programas que leen, manipulan y analizan datos. En este tutorial, veremos los conceptos básicos de R. Empezaremos con variables y operaciones básicas, pasando a estructuras de datos tales como vectores, matrices, data frames y listas. También exploraremos las capacidades gráficas de R."
+    "TUTORIAL_1_DESCRIPTION": "Hoy en día, es necesario manejar herramientas para procesar y analizar datos. R es una de estas herramientas, que rápidamente se ha convertido en la lengua franca de la estadística, permitiendo escribir programas que leen, manipulan y analizan datos. En este tutorial, veremos los conceptos básicos de R. Empezaremos con variables y operaciones básicas, pasando a estructuras de datos tales como vectores, matrices, data frames y listas. También exploraremos las capacidades gráficas de R.",
+    "WIP": "Cuando las convocatorias finalizen estos seran publicados."
   },
   "VENUE": {
-    "TITLE": "Location",
+    "TITLE": "Lugar",
     "MEMI_ADDRESS": "MEMI, Universidad Mayor de San Simon. Cochabamba, Bolivia",
     "HOTELS": "Hoteles",
     "HOTELS_DESCRIPTION": "",
@@ -79,7 +80,22 @@
     "TRANSPORT_DESCRIPTION": ""
   },
   "COMITTEE": {
-    "TITLE": "Guests"
+    "TITLE": "Invitados",
+    "GUEST_1": "",
+    "GUEST_1_DESCRIPTION": "I am an assistant professor in the <a href=\"http://car.mines-douai.fr/\">CAR research theme</a> of the research unit <a href=\"http://ia.ur.mines-douai.fr/en/home/\">UR IA</a> in the <a href=\"http://ia.mines-douai.fr/\">IA</a> departement of <a href=\"http://www2.mines-douai.fr/index.php\">Mines Douai</a> (a Higher School of Engineering). In 2015, I obtained the diploma called \"Habilitation à Diriger les Recherches\" (HDR for short) which stands for \"Ability to Supervise Research\".<br/>My researches aims at easing the development of distributed and constrained software through new languages and tools. I focus on dynamic languages and more specifically Smalltalk through the Pharo implementation. Pharo is a really great platform to experiment new ideas. I also teach some programming related courses since 2003. And since 2010, I am a board member of the <a href=\"http://www.esug.org/wiki/\">European Smalltalk User Group</a> (Esug).",
+    "GUEST_2": "",
+    "GUEST_2_DESCRIPTION": "I am a PhD student at the University of Chile since 2013. Prior to this, I got a master degree in software engineering at the Czech technical university in Prague. Since my master degree I worked in several companies as software engineer, software developer, software architect, and business analyst. Currently, apart from doing the PhD, I am an active contributor to Pharo.<br/>I am interested in improving Integrated Development Environments (IDEs) and Empirical Software Engineering. In particular I have been investigating how to increase developer productivity, and how to diminish learning and navigation time when working on a software change task.",
+    "GUEST_3": "",
+    "GUEST_3_DESCRIPTION": "PhD candidate in Computer Science, DCC, University of Chile. I am currently in my fourth year. I’m interested in Visual Analytics. I am particularly interested in working on projects that brings together people from different fields.<br/>I love teaching. I’ve been assistant professor several times and I participate on teaching the Scratch programming language to kids. I’m part of <a href=\"http://www.c-100.cl/\">c^100</a>, an organization that works towards having more computer science in Chilean schools. We are also interested in showing that gender is nor a factor to like computer science or to be successful on this career.",
+    "GUEST_4": "",
+    "GUEST_4_DESCRIPTION": "Alumno de Magister en Computación en la Universidad de Chile. Dedicado principalmente a la Ingeniería de Software, donde desarrolla investigación en el area, particularmente en análisis dinámico de software. Además posee intereses en el emprendimiento, educación y es miembro activo de la comunidad de Pharo desde el 2013.",
+    "GUEST_5": "",
+    "GUEST_5_DESCRIPTION": "Jocelyn Simmonds es profesora asistente del Departamento de Ciencia de la Computación de la Universidad de Chile desde 2014. Recibió el grado de Doctora en Ciencias de la Computación en la Universidad de Toronto, Canadá, el grado de Magíster en Ciencias de la Computación en la Universidad Libre de Bruselas, y el titulo de Ingeniero Civil en Computación en la Universidad de Chile. Sus intereses de investigación están en las áreas de ingeniería de software, especialmente métodos formales, verificación y validación de programas, y el desarrollo de aplicaciones Web y móviles. Ha publicado su investigación en revistas científicas tales como Journal of Computing, IEEE Transactions on Services Computing. Además, es co-⁠fundadora de WSCCC, un grupo de mujeres en computación en Chile, y el 2015 co­organizo LAtINiTY, el primer encuentro latinoamericano para mujeres en tecnología (<a href=\"​http://www.latinity.info/\">​http://www.latinity.info/</a>​). Por esta labor, fue elegida entre los 100 líderes jóvenes de Chile de la Revista Sábado 2015.",
+    "GUEST_6": "",
+    "GUEST_6_DESCRIPTION": "I'm a PhD student in Computer Science at the University of Chile, member of the Pleiad Research Laboratory. My research interests lie in software engineering, more specifically in the fields of software maintenance, mining software repositories, software performance and software visualization. I currently follow two main research tracks: 1) mining static and dynamic information of source code repositories to understand and improve different aspects of the development process and 2) discover approaches, techniques, and tools to improve the way that we build and maintain software. I also have additional interests in empirical software engineering and programming languages. I got graduated as a Systems Engineer at the Universidad Mayor de San Simon, Bolivia, in 2010. Also I worked in outsourcing projects developing and designing applications for distributed environments including desktop, web and mobile.",
+    "GUEST_7_DESCRIPTION": "Es estudiante del Magíster en Tecnologías de la Información de la Universidad de Chile. Anteriormente recibió el título de Ingeniería de Sistemas de la Universidad Mayor de San Simón en Cochabamba, Bolivia, donde se tituló por Excelencia Académica.<br/>Cuenta con cuatro certificaciones Microsoft MTA y la certificación Microsoft Certified Professional.<br/>Durante mayo y junio de 2016 realizó una visita de investigación a la Universidad de Stuttgart, Alemania, donde trabajó en proyectos del Centro de Visualización VISUS.<br/>Actualmente, realiza distintas actividades de voluntariado como: dar mentoría en la plataforma online Assembled, participar del proyecto Code Recommenders de la fundación Eclipse (desarrollando features y resolviendo defectos), entre otras.",
+    "FRANCE": "Francia",
+    "CZECH_REPUBLIC": "Republica Checa"
   },
   "SUBMISSION": {
     "TITLE": "Convocatoria",

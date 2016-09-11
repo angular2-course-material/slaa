@@ -17,7 +17,7 @@
   },
   "INTRO": {
     "TITLE": "About SSLA 2016",
-    "DESCRIPTION_1": "SLA 2016 is the second Summer School on Programming Languages and Applications, organized by the MEMI research center of the University \"Universidad Mayor de San Simon\".",
+    "DESCRIPTION_1": "SSLA 2016 is the second Summer School on Programming Languages and Applications, organized by the MEMI research center of the University \"Universidad Mayor de San Simon\".",
     "DESCRIPTION_2": "The school is intended to provide interested students with an overview of some major topics and research issues in the area of programming languages and software engineering. The school will feature advice and guidance from leading software engineering researchers based upon their personal experiences and insights into the contemporary community. ",
     "DESCRIPTION_3": "A goal of this school will be to provide a supportive yet questioning setting in which students, professors, researchers and professionals can present their work. The school will also help participants to establish a research and social network with their local peers and also with international researchers in the area.",
     "DESCRIPTION_4": "There are different events where you can get involved:",
@@ -68,7 +68,8 @@
     "TUTORIAL_1_DESCRIPTION": "Nowadays, it is necessary to use tools to process and analyse data. R es one of these tools, that has quickly become in the language of statistics, allowing us to write programs that read, handle and analyse data. In this tutorial, we will cover the basic concepts of R. We will start with variables and basic operations, and then continue with data structures like vectors, matrices, data frames and lists. We will also explore the graphic capacities of R.",
     "TUTORIALS": "Tutorials",
     "SHOW_PROJECT": "Project Presentation",
-    "DISCUSSION_PANELS": "Discussion Panels"
+    "DISCUSSION_PANELS": "Discussion Panels",
+    "WIP": "When the calls finish this ones will be published."
   },
   "VENUE": {
     "TITLE": "Location",
@@ -79,7 +80,29 @@
     "TRANSPORT_DESCRIPTION": ""
   },
   "COMITTEE": {
-    "TITLE": "Guests"
+    "TITLE": "Guests",
+    "GUEST_1": "",
+    "GUEST_1_DESCRIPTION": "I am an assistant professor in the <a href=\"http://car.mines-douai.fr/\">CAR research theme</a> of the research unit <a href=\"http://ia.ur.mines-douai.fr/en/home/\">UR IA</a> in the <a href=\"http://ia.mines-douai.fr/\">IA</a> departement of <a href=\"http://www2.mines-douai.fr/index.php\">Mines Douai</a> (a Higher School of Engineering). In 2015, I obtained the diploma called \"Habilitation à Diriger les Recherches\" (HDR for short) which stands for \"Ability to Supervise Research\".<br/>My researches aims at easing the development of distributed and constrained software through new languages and tools. I focus on dynamic languages and more specifically Smalltalk through the Pharo implementation. Pharo is a really great platform to experiment new ideas. I also teach some programming related courses since 2003. And since 2010, I am a board member of the <a href=\"http://www.esug.org/wiki/\">European Smalltalk User Group</a> (Esug).",
+    "GUEST_2": "",
+    "GUEST_2_DESCRIPTION": "I am a PhD student at the University of Chile since 2013. Prior to this, I got a master degree in software engineering at the Czech technical university in Prague. Since my master degree I worked in several companies as software engineer, software developer, software architect, and business analyst. Currently, apart from doing the PhD, I am an active contributor to Pharo.<br/>I am interested in improving Integrated Development Environments (IDEs) and Empirical Software Engineering. In particular I have been investigating how to increase developer productivity, and how to diminish learning and navigation time when working on a software change task.",
+    "GUEST_3": "",
+    "GUEST_3_DESCRIPTION": "PhD candidate in Computer Science, DCC, University of Chile. I am currently in my fourth year. I’m interested in Visual Analytics. I am particularly interested in working on projects that brings together people from different fields.<br/>I love teaching. I’ve been assistant professor several times and I participate on teaching the Scratch programming language to kids. I’m part of <a href=\"http://www.c-100.cl/\">c^100</a>, an organization that works towards having more computer science in Chilean schools. We are also interested in showing that gender is nor a factor to like computer science or to be successful on this career.",
+    "GUEST_4": "",
+    "GUEST_4_DESCRIPTION": "Alumno de Magister en Computación en la Universidad de Chile. Dedicado principalmente a la Ingeniería de Software, donde desarrolla investigación en el area, particularmente en análisis dinámico de software. Además posee intereses en el emprendimiento, educación y es miembro activo de la comunidad de Pharo desde el 2013.",
+    "GUEST_5": "",
+    "GUEST_5_DESCRIPTION": "Is an assistant professor at the Computer Science Department, University of Chile since 2014. She received her Ph.D. in Computer Science from the University of Toronto, Canada, her M.Sc. in Computer Science from the Vrije Universiteit Brussel, Belgium and her Engineering degree from the University of Chile. Her research interests are in the area of software engineering, specifically formal methods, software verification and validation, and Web and mobile application development. She has published her research in journals like the Journal of Computing and IEEE Transactions on Services Computing. She is also co-⁠founder of WSCCC, a Chilean Women in Computing group, and in 2015 she co-organized LAtINiTY, the first Latin American conference for women in technology (<a href=\"​http://www.latinity.info/\">​http://www.latinity.info/</a>). For this work, she was chosen as one of the 100 young leaders of Chile by the Revista Sábado 2015.",
+    "GUEST_6": "",
+    "GUEST_6_DESCRIPTION": "I'm a PhD student in Computer Science at the University of Chile, member of the <a href=\"http://pleiad.dcc.uchile.cl/\">Pleiad Research Laboratory</a>.<br/>My research interests lie in software engineering, more specifically in the fields of software maintenance, mining software repositories, software performance and software visualization. I currently follow two main research tracks: 1) mining static and dynamic information of source code repositories to understand and improve different aspects of the development process and 2) discover approaches, techniques, and tools to improve the way that we build and maintain software. I also have additional interests in empirical software engineering and programming languages.<br/>I got graduated as a Systems Engineer at the Universidad Mayor de San Simon, Bolivia, in 2010. Also I worked in outsourcing projects developing and designing applications for distributed environments including desktop, web and mobile.",
+    "GUEST_7": "",
+    "GUEST_7_DESCRIPTION": "Is a Master's student in Information Technologies at University of Chile. She received her Bachelor degree in Systems Engineering from the University \"Universidad Mayor de San Simón\" in Cochabamba, Bolivia, where she graduated with honors.<br/>She has four Microsoft MTA certifications and the Diploma of \"Microsoft Certified Professional\".<br/>During May and June of 2016 she visited the University University of Stuttgart, Germany, where she worked in a project at the Visualizació Research Center VISUS.<br/>Currently, she is involved in diverse volunteering activities, like: mentoring program at the online platform Assembled, open source contribution at the Code Recommenders project, from the Eclipse Foundation, among others.",
+    "GUEST_8": "",
+    "GUEST_8_DESCRIPTION": "",
+    "GUEST_9": "",
+    "GUEST_9_DESCRIPTION": "",
+    "GUEST_10": "",
+    "GUEST_10_DESCRIPTION": "",
+    "FRANCE": "France",
+    "CZECH_REPUBLIC": "Czech Republic"
   },
   "SUBMISSION": {
     "TITLE": "Calls",
