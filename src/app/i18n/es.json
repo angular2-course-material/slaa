@@ -1,6 +1,6 @@
 {
   "NAVBAR": {
-    "SLAA": "SSLA",
+    "SLAA": "ILAS",
     "HOME": "Inicio",
     "SUBMISSION": "Convocatoria",
     "PROGRAM": "Programa",
@@ -11,22 +11,22 @@
     "BANQUET": "Almuerzo"
   },
   "BANNER": {
-    "TITLE_PT1": "Escuela de Verano en Lenguajes",
-    "TITLE_PT2": "y Aplicaciones",
+    "TITLE_PT1": "Jornadas de Investigación de Ciencias",
+    "TITLE_PT2": "de la Computación",
     "DATES": "24 - 28 de Noviembre"
   },
   "INTRO": {
-    "TITLE": "Acerca de SSLA 2016",
-    "DESCRIPTION_1": "SSLA 2016 es la segunda versión de la Escuela de Verano en Lenguajes y Aplicaciones, organizado por el centro de investigación MEMI de la Universidad Mayor de San Simón.",
-    "DESCRIPTION_2": "La Escuela de Verano pretende brindar a los estudiantes un resumen sobre tópicos relevantes y problemas de investigación en el área de lenguajes de programación e ingeniería de software. La escuela permitirá a investigadores líderes en ingeniería de software dar consejos y guiar a los estudiantes, en base a su experiencia personal y conocimiento.",
-    "DESCRIPTION_3": "Una de las metas de esta escuela es proveer un ambiente de apoyo y a la vez inquisitivo, donde los estudiantes, profesores, investigadores y profesionales puedan presentar sus trabajos. La escuela también ayudará a los participantes a establecer una red con sus pares locales y con investigadores internacionales del área.",
+    "TITLE": "Acerca de ILAS 2016",
+    "DESCRIPTION_1": "ILAS 2016 es la segunda versión de las Jornadas de Investigación de Ciencias de la Computación, organizado por el centro de investigación MEMI de la Universidad Mayor de San Simón.",
+    "DESCRIPTION_2": "Las jornadas pretenden brindar a los estudiantes un resumen sobre tópicos relevantes y problemas de investigación en el área de lenguajes de programación e ingeniería de software. Las jornadas permitirán a investigadores líderes en ingeniería de software dar consejos y guiar a los estudiantes, en base a su experiencia personal y conocimiento.",
+    "DESCRIPTION_3": "Una de las metas de estas jornadas es proveer un ambiente de apoyo y a la vez inquisitivo, donde los estudiantes, profesores, investigadores y profesionales puedan presentar sus trabajos. Las jornadas también ayudará a los participantes a establecer una red con sus pares locales y con investigadores internacionales del área.",
     "DESCRIPTION_4": "Hay diferentes eventos donde participar:",
     "EVENTS": {
       "EVENT_1": "<b>Tutoriales:</b> Los tutoriales cubrirán temas básicos sobre lenguajes de programación e ingeniería de software. Los tutoriales serán dictados por expertos internacionales del área.",
       "EVENT_2": "<b>Keynotes:</b> Los keynotes cubrirán temas avanzados en ingeniería de software.",
-      "EVENT_3": "<b>Charlas:</b> La escuela provee cupos a los participantes para que puedan mostrar sus trabajos.  Los participantes podrán discutir los objetivos, metodología y resultados de sus proyectos en curso y recibirán una guía y opiniones que les permitirán mejorar su trabajo.",
+      "EVENT_3": "<b>Charlas:</b> Las Jornadas proveen cupos a los participantes para que puedan mostrar sus trabajos.  Los participantes podrán discutir los objetivos, metodología y resultados de sus proyectos en curso y recibirán una guía y opiniones que les permitirán mejorar su trabajo.",
       "EVENT_4": "<b>Muestra tu Proyecto:</b> Invitamos a los estudiantes a que presenten sus tesis o proyectos. Se dará un amplio espacio para que los estudiantes puedan interactuar con los asistentes para responder preguntas, discutir sobre el proyecto y recibir sugerencias.",
-      "EVENT_5": "<b>Paneles de discusión:</b> La escuela incluirá diferentes paneles donde se discutirá temas como: Mujeres Bolivianas en Computación y La Investigación en Universidades Bolivianas."
+      "EVENT_5": "<b>Paneles de discusión:</b> Las jornadas incluirán diferentes paneles donde se discutirá temas como: Mujeres Bolivianas en Computación y La Investigación en Universidades Bolivianas."
     },
     "DESCRIPTION_5": "Debido al caracter internacional de las charlas, se recomienda que los asistentes tengan un buen nivel de inglés.",
     "IMPORTANT_DATES": {
@@ -43,7 +43,7 @@
   },
   "REGISTRATION": {
     "TITLE": "Inscripción",
-    "DESCRIPTION": "La Escuela de Verano es gratis para todos los estudiantes que participen activamente en el evento (dando charlas o presentando sus proyectos)<br/>Los tutoriales están dirigidos principalmente a estudiatnes de pregrado y postgrado de Latinoamérica. Sin embargo, estudiantes de todas partes del mundo son bienvenidos si desean participar.<br/>Los profesionales también son bienvenidos a participar.<br/>Se recomienda a los estudiantes aplicar por una beca para asistir al evento.",
+    "DESCRIPTION": "Las jornadas son gratis para todos los estudiantes que participen activamente en el evento (dando charlas o presentando sus proyectos)<br/>Los tutoriales están dirigidos principalmente a estudiatnes de pregrado y postgrado de Latinoamérica. Sin embargo, estudiantes de todas partes del mundo son bienvenidos si desean participar.<br/>Los profesionales también son bienvenidos a participar.<br/>Se recomienda a los estudiantes aplicar por una beca para asistir al evento.",
     "PRICES": "Precios",
     "PRICES_SHEET": {
       "PRICE_1": "Precio por Tutorial",
@@ -56,7 +56,7 @@
     },
     "REGISTERED_PEOPLE": "Las personas inscritas en cualquier tutorial o en las charlas pueden participar en los paneles de discusión sin cargo alguno.",
     "FORM": "<b>Becas:</b> los estudiantes que quieran aplicar a una beca deben hacerlo mediante el formulario siguiente: <a href=\"http://goo.gl/forms/Yj6XJe2A1iVh7oJL2\">FORMULARIO BECAS<a>",
-    "QUESTIONS": "Envíe cualquier pregunta sobre la Escuela de Verano al email:..."
+    "QUESTIONS": "Envíe cualquier pregunta sobre las jornadas al email:..."
   },
   "PROGRAM": {
     "TALKS_KEYNOTES": "Keynotes y Charlas",
@@ -110,23 +110,28 @@
     "CZECH_REPUBLIC": "Republica Checa"
   },
   "SUBMISSION": {
-    "TITLE": "Convocatoria",
-    "GOAL_AND_SCOPE": "Objetivo y Alcance",
-    "GOAL_AND_SCOPE_DESCRIPTION": "La Escuela de Verano pretende brindar a los estudiantes un resumen sobre tópicos relevantes y problemas de investigación en el área de lenguajes de programación e ingeniería de software. Una de las metas de esta escuela es proveer un ambiente de apoyo y a la vez inquisitivo, donde los estudiantes, profesores, investigadores y profesionales puedan presentar sus trabajos. La escuela también ayudará a los participantes a establecer una red con sus pares locales y con investigadores internacionales del área.",
-    "TALKS": "Convocatoria para Presentar Charlas",
-    "TALKS_DESCRIPTION": "Invitamos a docentes de instituciones locales a que den una charla sobre sus proyectos en curso o terminados. Los profesionales también son bienvenidos a aplicar y presentar sus proyectos o hablar sobre sus experiencias en la industria. Las charlas serán sujetas a revisión y aceptación. Para esto los interesados deben enviar un resumen (máximo 1800 caracteres) y una biografía corta de la persona que va a presentar la charla. Las propuestas de charla deberán ser enviadas mediante el siguiente formulario: <a href=\"http://goo.gl/forms/4DnVdlt7yMiiMtN32\">FORMULARIO CHARLAS</a>",
+    "TITLE": "Llamado a Presentacion de Trabajos",
+    "GOAL_AND_SCOPE": "Alcance y Objetivos",
+    "GOAL_AND_SCOPE_DESCRIPTION": "Las Jornadas de Investigación en Ciencias de la Computación 2016, es un evento importante en el área de Ciencias de la Computación a nivel local. En esta versión, se espera atraer investigadores, estudiantes con proyectos de investigación para titulación y profesores del interior del país, buscando acrecentar la comunicación y divulgación de aspectos relacionados a los tópicos de interés. Así mismo, también se espera la visita de importantes investigadores de universidades del exterior del país con quienes se espera un enriquecimiento muy alto en aspectos del trabajo y problemas de la investigación en el área.<br/>En el marco de este evento, se dispone espacios que permiten la presentación y divulgación de trabajos de investigación con la finalidad de lograr una retroalimentación de la comunidad de investigadores presente. Esta versión de las Jornadas de Investigación en Ciencias de la Computación 2016, no será un lugar de encuentro únicamente para los trabajos de investigación con un material de publicación como respaldo, sino, sobre todo de lograr una retroalimentación a los trabajos de investigación en curso o proyectados con el afán de lograr opiniones valiosas para su efectiva realización.",
+    "TOPICS":"Temas de Interes",
+    "TOPICS_DESCRIPTION": "Los temas de interés en los cuales deben estar enmarcados los trabajos/ proyectos/ investigaciones concluidas o parcialmente concluidas/ o proyectadas, son:",
+    "TOPICS_LIST": "<ul><li>Bases de datos y sistemas para persistencia de datos.</li><li>Ingeniería de software</li><li>Patrones y Arquitectura de software</li><li>Genericidad/Seguridad/Técnicas en Lenguajes de Programación</li><li>Testing/Debugging.</li><li>Aplicación/Complejidad de Algoritmos de software</li><li>Procesamiento de Imágenes</li></ul>",
+    "IMPORTANT_DATES": "Fechas Importantes",
+    "IMPORTANT_DATES_1": "Registro de trabajos: 21 de Octubre 2016",
+    "IMPORTANT_DATES_2": "Notificación de aceptación: 28 de Octubre 2016",
+    "IMPORTANT_DATES_3": "Programación de presentaciones: 28 de Octubre 2016",
+    "SUBMISSION": "Información para el envío de Resúmenes de Trabajos",
+    "SUBMISSION_DESCRIPTION": "<ul><li>Los resúmenes o abstracts de los trabajos pueden ser escritos en espa˜nol o inglés y deben ser enviados en formato PDF. a las direcciones: <ul><li>vladimir@memi.umss.edu.bo</li><li>marcelo@memi.umss.edu.bo</li></ul></li> <li>Los trabajos que se propongan deben presentar proyectos/resultados de investigación originales o reportes con experiencias relevantes. Se admiten proyectos/trabajos publicados o en proceso de evaluación para otras conferencias y/o revistas.</li><li>La extensión máxima de los resúmenes o abstracts de los proyectos/trabajos de investigación es de 1 página, incluyendo figuras, referencias bibliográficas. (márgen izq/der de 3 cm., interlineado simple y tipo de fuente Times.</li><li>Es requisito para los proponentes registrarse en las jornadas, para la presentación de los trabajos solicitados. (ver Información de registro de participantes)</li></ul>",
+    "COMITTEE": "Comité académico",
+    "COMITTEE_DESCRIPTION": "<ul><li>Vladimir Costas Jaúregui, Universidad Mayor de San Simón.</li><li>Marcelo Flores Solíz, Universidad Mayor de San Simón.</li><li>Juan Pablo Sandoval, Universidad de Chile.</li><li>Alexandre Bergel, Universidad de Chile.</li><li>Luc fabresse, Ecole des Mines de Douai, Institut Mines Telecom.</li><li>Lucio Salgado, Universidad Técnica de Oruro.</li><li>Pedro Real, Universidad de Sevilla.</li></ul>",
+    "OTHER_TALKS": "Llamados adicionales",
     "SHOW_PROJECT": "Convocatoria para participar en la sesión \"Muestra tu Proyecto\"",
     "SHOW_PROJECT_DESCRIPTION": "Invitamos a estudiantes a que presenten sus tesis u otros proyectos en que estèn trabajando. Se dará un amplio espacio para que los estudiantes puedan interactuar con los asistentes para responder preguntas, discutir sobre el proyecto y recibir sugerencias. Para participar, llena el siguiente formulario: <a href=\"http://goo.gl/forms/p6IELe4SZEVwGktp2\">FORMULARIO PROJECTOS</a>. Se invita especialmente a aquellos estudiantes que estén próximos a registrar sus temas de tesis en sus respectivas universidades.",
     "PANELS": "Convocatoria para participar en los paneles de discusión",
     "PANELS_0": "Todos los participantes están invitados a formar parte de los paneles de discusión y formular preguntas o hacer comentarios a los panelistas durante la sesión. Docentes y profesionales son bienvenidos a postularse como panelistas. Para ser parte de los paneles, por favor llenar el formulario siguiente: <a href=\"http://goo.gl/forms/IsSDfATV60uJUClg2\">FORMULARIO PANELISTAS</a>",
-    "PANELS_1": "Este año la Escuela de Verano presentará los siguientes paneles de discusión:",
+    "PANELS_1": "Este año las jornadas presentarán los siguientes paneles de discusión:",
     "PANELS_2": "Mujeres Bolivianas en Computación",
-    "PANELS_3": "La Investigación en Universidades Bolivianas",
-    "IMPORTANT_DATES": "Fechas Importantes",
-    "IMPORTANT_DATES_1": "Fecha límite para postular a la sesión \"Muestra tu Proyecto\": 28 de octubre de 2016",
-    "IMPORTANT_DATES_2": "Fecha límite para postular a los paneles de discusión: 28 de octubre de 2016",
-    "IMPORTANT_DATES_3": "Fecha límite para postular una charla: 22 de septiembre de 2016",
-    "IMPORTANT_DATES_4": "Fecha de notificación de las charlas aceptadas: 21 de octubre de 2016"
+    "PANELS_3": "La Investigación en Universidades Bolivianas"
   },
   "BANQUET": {
     "TITLE": "Almuerzo",
@@ -136,8 +141,8 @@
   },
   "PREVIOUS_EDITIONS": {
     "TITLE": "Ediciones Previas",
-    "DESCRIPTION": "La version 2016 de la Escuela de Verano en Lenguajes y Aplicationes fue precedida por:",
-    "EDITION_1": "Escuela de Verano en Lenguajes y Aplicaciones (SSLA) 2015",
+    "DESCRIPTION": "La version 2016 de las Jornadas de Investigacion en ciencias de la computación fue precedida por:",
+    "EDITION_1": "Jornadas de Investigacion en ciencias de la computación (ILAS) 2015",
     "EDITION_1_DESC": "24-28 de Noviembre, Cochabamba, Bolivia"
   }
 }
