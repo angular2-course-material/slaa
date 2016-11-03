@@ -24,8 +24,7 @@
     "EVENTS": {
       "EVENT_1": "<b>Tutoriales:</b> Los tutoriales cubrirán temas básicos sobre lenguajes de programación e ingeniería de software. Los tutoriales serán dictados por expertos internacionales del área.",
       "EVENT_2": "<b>Keynotes:</b> Los keynotes cubrirán temas avanzados en ingeniería de software.",
-      "EVENT_3": "<b>Charlas:</b> Las Jornadas proveen cupos a los participantes para que puedan mostrar sus trabajos.  Los participantes podrán discutir los objetivos, metodología y resultados de sus proyectos en curso y recibirán una guía y opiniones que les permitirán mejorar su trabajo.",
-      "EVENT_4": "<b>Muestra tu Proyecto:</b> Invitamos a los estudiantes a que presenten sus tesis o proyectos. Se dará un amplio espacio para que los estudiantes puedan interactuar con los asistentes para responder preguntas, discutir sobre el proyecto y recibir sugerencias.",
+      "EVENT_4": "<b>Talleres:</b> Las Jornadas proveen cupos a los participantes para que puedan mostrar sus trabajos.  Los participantes podrán discutir los objetivos, metodología y resultados de sus proyectos en curso y recibirán una guía y opiniones que les permitirán mejorar su trabajo. Invitamos a los estudiantes a que presenten sus tesis o proyectos. Se dará un amplio espacio para que los estudiantes puedan interactuar con los asistentes para responder preguntas, discutir sobre el proyecto y recibir sugerencias.",
       "EVENT_5": "<b>Paneles de discusión:</b> Las jornadas incluirán diferentes paneles donde se discutirá temas como: Mujeres Bolivianas en Computación y La Investigación en Universidades Bolivianas."
     },
     "DESCRIPTION_5": "Debido al caracter internacional de las charlas, se recomienda que los asistentes tengan un buen nivel de inglés.",
@@ -56,32 +55,177 @@
     },
     "REGISTERED_PEOPLE": "Las personas inscritas en cualquier tutorial o en las charlas pueden participar en los paneles de discusión sin cargo alguno.",
     "FORM": "<b>Becas:</b> los estudiantes que quieran aplicar a una beca deben hacerlo mediante el formulario siguiente: <a href=\"http://goo.gl/forms/Yj6XJe2A1iVh7oJL2\">FORMULARIO BECAS<a>",
-    "QUESTIONS": "Envíe cualquier pregunta sobre las jornadas al email:..."
+    "QUESTIONS": "Envíe cualquier pregunta sobre las jornadas al email:...",
+    "SCHOLARSHIPS": "La charlas son de acceso libre para cualquier persona, no es necesario registrarse.<br/>Cada tutorial se inscribe por separado. Todas las personas registradas a un tutorial, tiene acceso a el workshop, charlas y paneles de discussion.<br/>Los estudiantes que envien propuestas de charlas para el workshop seran becados para participar gratis en el tutorial de su eleccion."
   },
   "PROGRAM": {
-    "TALKS_KEYNOTES": "Keynotes y Charlas",
-    "TUTORIALS": "Tutoriales",
-    "SHOW_PROJECT": "Presentación de Proyectos",
-    "DISCUSSION_PANELS": "Paneles de Discusión",
-    "KEYNOTE_1_TITLE": "Uso de visualizaciones word-sized para analizar datos de Eye-Tracking",
-    "KEYNOTE_1_DESCRIPTION": "El eye-tracking se encarga de estudiar los movimientos visuales que realizamos al mirar un determinado elemento. Para transmitir resultados de estudios de eye-tracking, típicamente necesitamos ordenarlos y resumirlos. Plasmar estos datos en tablas y gráficos impresos es muy útil, pero éstos se ven limitados por el espacio y requieren saltar entre el párrafo y los gráficos/tablas repetidas veces. Como alternativa, las visualizaciones word-sized son versiones pequeñas de otras visualizaciones ya establecidas, que facilitan la integración con los párrafos y reducen el impacto de la limitación de espacio. En la charla, exploraremos las visualizaciones word-sized para analizar datos de un estudio de eye-tracking.",
-    "KEYNOTE_2_TITLE": "Análisis de Programas",
-    "KEYNOTE_2_DESCRIPTION": "El análisis formal de programas busca descubrir y/o inferir hechos acerca de programas, permitiendo optimizar, transformar y verificarlos. El objetivo es construir herramientas que ayuden a desarrolladores entender sus programas y detectar errores. Existen tres familias de técnicas de análisis: 1) estático, donde se analizan los programas sin ejecutarlos, en tiempo de compilación, 2) dinámico, donde se analizan trazas de ejecución mientras estos corren, y 3) híbrido, que combinan aspectos estáticos y dinámicos. Por un tema de escalabilidad, el análisis estático es conservadores: un estado abstracto representa uno o más estados concretos. En cambio, el análisis dinámico es mas preciso, dado que se conoce el estado concreto del programa. En esta charla, daré una visión general de análisis formal de programas, y presentare algunos desafíos actuales.",
-    "KEYNOTE_3_TITLE": "Exploración Visual de Eventos Noticiosos Extraídos de Social Media en su Contexto Spacio-Temporal",
-    "KEYNOTE_3_DESCRIPTION": "Las plataformas de social media se han convertido en enormes repositorios de información acerca de lo que pasa en el mundo y como la gente reacciona a esos eventos. Sin embargo, extraer información de estas plataformas no es una tarea fácil ya que todos los días se publican millones de mensajes. Por otra parte, estos documentos son muy volátiles por lo que es difícil recuperarlos después de pasado un tiempo. Por lo tanto, para poder sacar información útil de estos datos es necesario desarrollar formas eficientes y eficaces de guardarlos y explorarlos. En esta charla presentaremos Galean, una herramienta de visualización de eventos noticiosos extraídos desde Twitter en su contexto geo-temporal, además del modelo subyacente que los representa. En particular, nuestro enfoque es considerar las ubicaciones de un evento como entidades que se relacionan entre sí y que dan forma a la evolución de un evento en el tiempo.",
-    "KEYNOTE_4_TITLE": "Do Developers Use Your Tool As You Expected?",
-    "KEYNOTE_4_DESCRIPTION": "Analyzing how software engineers use development tools is fundamental to better understanding how engineers carry out their daily tasks. Especially tool designers need to know if their tools are used the way they envisioned it.<br/>This talk presents an evaluation of how software engineers use SPOTTER—a search engine—in practice. To archives this, we remotely gathered user actions and developed a visual alphabet, that aids the analysis.<br/>We found common usage patterns and identified underused SPOTTER features. Such findings are essential for improving SPOTTER.",
-    "KEYNOTE_5_TITLE": "SPY2: Dynamic Analysis at the reach of everyone",
-    "KEYNOTE_5_DESCRIPTION": "Exposing the runtime behavior of an application is a really important practice to understand software and evaluate its quality. Unfortunately, creating these tools usually involves modifying the virtual machine and/or the internals of the system. We present a novel approach that allow programmers to create their own customized profiler that address their own needs minimizing their exposure to the internals of the system.",
-    "KEYNOTE_6_TITLE": "Performance Regression Prediction",
-    "KEYNOTE_6_DESCRIPTION": "Los cambios en el código fuente pueden introducir regresiones en performance.  Estas regresiones se refieren a situaciones donde el rendimiento de un programa se degrada en comparación a versiones anteriores del mismo, aunque la nueva version funcione correctamente. Por ejemplo, cuando un version nuevo es mas lenta que la anterior, pero sigue funcionando correctamente.<br/>Ejecutar puntos de referencia en cada version es una técnica tradicional utilizada para identificar regresiones en etapas tempranas. Sin embargo, a pesar de ser efectiva, esta técnica exhaustiva es difícil de llevar a cabo en la práctica, principalmente por la alta sobrecarga que esta actividad demanda. En esta charla se hablara las diferentes técnicas que existen para predecir si una nueva versión puede introducir una regression o no (sin ejecutar costosos puntos de referencia). El objetivo de estas técnicas es reducir la sobrecarga que se requiere para monitorear el rendimiento de cada versión, ejecutando los puntos de referencia solo en las versiones que contengan cambios costosos de código fuente.",
-    "KEYNOTE_7_TITLE": "VisualID: Usando iconos auto-generados para resolver problemas en ingeniería de software",
-    "KEYNOTE_7_DESCRIPTION": "Glyphs son iconos auto-generados comúnmente usados en la identificación de objetos. A pesar de ser populares en la comunidad de interacción humano computador, los glyphs son raramente usados para resolver problemas en ingeniería de software. En esta charla presentaremos la técnica VisualID-glyph para resolver dos problemas comunes durante el mantenimiento del software: 1) identificar classes que tienen las mismas dependencias y clases con métodos similares.",
-    "TUTORIAL_1_TITLE": "Programación Estadística",
-    "TUTORIAL_1_DESCRIPTION": "Hoy en día, es necesario manejar herramientas para procesar y analizar datos. R es una de estas herramientas, que rápidamente se ha convertido en la lengua franca de la estadística, permitiendo escribir programas que leen, manipulan y analizan datos. En este tutorial, veremos los conceptos básicos de R. Empezaremos con variables y operaciones básicas, pasando a estructuras de datos tales como vectores, matrices, data frames y listas. También exploraremos las capacidades gráficas de R.",
-    "TUTORIAL_2_TITLE": "Data Mining con Python y Jupyter",
-    "TUTORIAL_2_DESCRIPTION": "La idea del tutorial es aprender lo básico de Python para hacer tareas de procesamiento y minería de datos. Para esto usaremos Jupyter (<a href=\"http://jupyter.org/\">http://jupyter.org/</a>) y exploraremos las ventajas de usar esta herramienta para compartir código y crear widgets interactivos para analizar datos. Al final del tutorial, trabajaremos en un proyecto en donde se utilizarán las herramientas aprendidas.",
-    "WIP": "Cuando las convocatorias finalizen estos seran publicados."
+    "SCHEDULE": "Schedule",
+    "TALKS": {
+      "TITLE": "Keynotes y Charlas",
+      "SCHEDULE": "16:30 - 18:00 (Lunes a Viernes)",
+      "SESSIONS": [
+        {
+          "NAME": "Lunes: Visualizacion de la Informacion",
+          "TALKS": [
+            {
+              "TITLE": "Uso de visualizaciones word-sized para analizar datos de Eye-Tracking",
+              "AUTHOR": "Yasett Acurana",
+              "DESCRIPTION": "El eye-tracking se encarga de estudiar los movimientos visuales que realizamos al mirar un determinado elemento. Para transmitir resultados de estudios de eye-tracking, típicamente necesitamos ordenarlos y resumirlos. Plasmar estos datos en tablas y gráficos impresos es muy útil, pero éstos se ven limitados por el espacio y requieren saltar entre el párrafo y los gráficos/tablas repetidas veces. Como alternativa, las visualizaciones word-sized son versiones pequeñas de otras visualizaciones ya establecidas, que facilitan la integración con los párrafos y reducen el impacto de la limitación de espacio. En la charla, exploraremos las visualizaciones word-sized para analizar datos de un estudio de eye-tracking.",
+              "ID1": "keynote-1",
+              "ID2": "kn-1"
+            },
+            {
+              "TITLE": "Exploración Visual de Eventos Noticiosos Extraídos de Social Media en su Contexto Spacio-Temporal",
+              "AUTHOR": "Vanessa Peña Araya",
+              "DESCRIPTION": "Las plataformas de social media se han convertido en enormes repositorios de información acerca de lo que pasa en el mundo y como la gente reacciona a esos eventos. Sin embargo, extraer información de estas plataformas no es una tarea fácil ya que todos los días se publican millones de mensajes. Por otra parte, estos documentos son muy volátiles por lo que es difícil recuperarlos después de pasado un tiempo. Por lo tanto, para poder sacar información útil de estos datos es necesario desarrollar formas eficientes y eficaces de guardarlos y explorarlos. En esta charla presentaremos Galean, una herramienta de visualización de eventos noticiosos extraídos desde Twitter en su contexto geo-temporal, además del modelo subyacente que los representa. En particular, nuestro enfoque es considerar las ubicaciones de un evento como entidades que se relacionan entre sí y que dan forma a la evolución de un evento en el tiempo.",
+              "ID1": "keynote-3",
+              "ID2": "kn-3"
+            },
+            {
+              "TITLE": "Software Visualization",
+              "AUTHOR": "",
+              "DESCRIPTION": "",
+              "ID1": "keynote-10",
+              "ID2": "kn-10"
+            }
+          ]
+        },
+        {
+          "NAME": "Martes: Analisis de Software",
+          "TALKS": [
+            {
+              "TITLE": "Analisis de Programas",
+              "AUTHOR": "Jocelyn Simmonds",
+              "DESCRIPTION": "El análisis formal de programas busca descubrir y/o inferir hechos acerca de programas, permitiendo optimizar, transformar y verificarlos. El objetivo es construir herramientas que ayuden a desarrolladores entender sus programas y detectar errores. Existen tres familias de técnicas de análisis: 1) estático, donde se analizan los programas sin ejecutarlos, en tiempo de compilación, 2) dinámico, donde se analizan trazas de ejecución mientras estos corren, y 3) híbrido, que combinan aspectos estáticos y dinámicos. Por un tema de escalabilidad, el análisis estático es conservadores: un estado abstracto representa uno o más estados concretos. En cambio, el análisis dinámico es mas preciso, dado que se conoce el estado concreto del programa. En esta charla, daré una visión general de análisis formal de programas, y presentare algunos desafíos actuales.",
+              "ID1": "keynote-2",
+              "ID2": "kn-2"
+            },
+            {
+              "TITLE": "SPY2: Dynamic Analysis at the reach of everyone",
+              "AUTHOR": "Alejandro Infante",
+              "DESCRIPTION": "Exposing the runtime behavior of an application is a really important practice to understand software and evaluate its quality. Unfortunately, creating these tools usually involves modifying the virtual machine and/or the internals of the system. We present a novel approach that allow programmers to create their own customized profiler that address their own needs minimizing their exposure to the internals of the system.",
+              "ID1": "keynote-5",
+              "ID2": "kn-5"
+            }
+          ]
+        },
+        {
+          "NAME": "Miercoles: Emp. Soft.  Engineering",
+          "TALKS": [
+            {
+              "TITLE": "Performance Regression Prediction",
+              "AUTHOR": "Juan Pablo Sandoval Alcocer",
+              "DESCRIPTION": "Los cambios en el código fuente pueden introducir regresiones en performance.  Estas regresiones se refieren a situaciones donde el rendimiento de un programa se degrada en comparación a versiones anteriores del mismo, aunque la nueva version funcione correctamente. Por ejemplo, cuando un version nuevo es mas lenta que la anterior, pero sigue funcionando correctamente.<br/>Ejecutar puntos de referencia en cada version es una técnica tradicional utilizada para identificar regresiones en etapas tempranas. Sin embargo, a pesar de ser efectiva, esta técnica exhaustiva es difícil de llevar a cabo en la práctica, principalmente por la alta sobrecarga que esta actividad demanda. En esta charla se hablara las diferentes técnicas que existen para predecir si una nueva versión puede introducir una regression o no (sin ejecutar costosos puntos de referencia). El objetivo de estas técnicas es reducir la sobrecarga que se requiere para monitorear el rendimiento de cada versión, ejecutando los puntos de referencia solo en las versiones que contengan cambios costosos de código fuente",
+              "ID1": "keynote-6",
+              "ID2": "kn-6"
+            }, {
+              "TITLE": "Idioms",
+              "AUTHOR": "Marcelo",
+              "DESCRIPTION": "",
+              "ID1": "keynote-9",
+              "ID2": "kn-9"
+            }
+          ]
+        },
+        {
+          "NAME": "Jueves: Emp. Soft.  Engineering",
+          "TALKS": [
+            {
+              "TITLE": "Do Developers Use Your Tool As You Expected?",
+              "AUTHOR": "Juraj Kubelka",
+              "DESCRIPTION": "Analyzing how software engineers use development tools is fundamental to better understanding how engineers carry out their daily tasks. Especially tool designers need to know if their tools are used the way they envisioned it.<br/>This talk presents an evaluation of how software engineers use SPOTTER—a search engine—in practice. To archives this, we remotely gathered user actions and developed a visual alphabet, that aids the analysis.<br/>We found common usage patterns and identified underused SPOTTER features. Such findings are essential for improving SPOTTER.",
+              "ID1": "keynote-4",
+              "ID2": "kn-4"
+            },
+            {
+              "TITLE": "VisualID: Usando iconos auto-generados para resolver problemas en ingeniería de software",
+              "AUTHOR": "Juan Pablo Sandoval Alcocer",
+              "DESCRIPTION": "Glyphs son iconos auto-generados comúnmente usados en la identificación de objetos. A pesar de ser populares en la comunidad de interacción humano computador, los glyphs son raramente usados para resolver problemas en ingeniería de software. En esta charla presentaremos la técnica VisualID-glyph para resolver dos problemas comunes durante el mantenimiento del software: 1) identificar classes que tienen las mismas dependencias y clases con métodos similares.",
+              "ID1": "keynote-7",
+              "ID2": "kn-7"
+            }
+          ]
+        }
+      ]
+    },
+    "EVENTS": [{
+      "NAME": "Tutoriales",
+      "TALKS": [
+        {
+          "TITLE": "Web Pharo",
+          "AUTHOR": "Luc Fabresse & Juraj Kubelka",
+          "DESCRIPTION": "",
+          "ID1": "tuto-0",
+          "ID2": "t-0",
+          "SCHEDULES": "8:00 - 9:45 (Lunes a Viernes)"
+        },
+        {
+          "TITLE": "Programación Estadística",
+          "AUTHOR": "Jocelyn Simmonds & Yasett Acurana",
+          "DESCRIPTION": "Hoy en día, es necesario manejar herramientas para procesar y analizar datos. R es una de estas herramientas, que rápidamente se ha convertido en la lengua franca de la estadística, permitiendo escribir programas que leen, manipulan y analizan datos. En este tutorial, veremos los conceptos básicos de R. Empezaremos con variables y operaciones básicas, pasando a estructuras de datos tales como vectores, matrices, data frames y listas. También exploraremos las capacidades gráficas de R.",
+          "ID1": "tuto-1",
+          "ID2": "t-1",
+          "SCHEDULES": "8:00 - 9:45 (Lunes a Viernes)"
+        },
+        {
+          "TITLE": "Data Mining con Python y Jupyter",
+          "AUTHOR": "Vanessa Peña Araya & Juan Pablo Sandoval Alcocer",
+          "DESCRIPTION": "La idea del tutorial es aprender lo básico de Python para hacer tareas de procesamiento y minería de datos. Para esto usaremos Jupyter (<a href=\"http://jupyter.org/\">http://jupyter.org/</a>) y exploraremos las ventajas de usar esta herramienta para compartir código y crear widgets interactivos para analizar datos. Al final del tutorial, trabajaremos en un proyecto en donde se utilizarán las herramientas aprendidas.",
+          "ID1": "tuto-2",
+          "ID2": "t-2",
+          "SCHEDULES": "14:30 - 15:15 (Lunes a Viernes)"
+        }
+      ]
+    }, {
+      "NAME": "Paneles de Discusion",
+      "TALKS": [
+        {
+          "TITLE": "Ing. de Software",
+          "AUTHOR": "",
+          "DESCRIPTION": "",
+          "ID1": "pane-1",
+          "ID2": "p-1",
+          "SCHEDULES": "Lunes: 10:00 - 12:00"
+        },
+        {
+          "TITLE": "Bases de Datos",
+          "AUTHOR": "",
+          "DESCRIPTION": "",
+          "ID1": "pane-1",
+          "ID2": "p-1",
+          "SCHEDULES": "Martes: 10:00 - 12:00"
+        },
+        {
+          "TITLE": "Women in Research - Comunidades de Mujeres en Tecnología en Latinoamérica",
+          "AUTHOR": "",
+          "DESCRIPTION": "",
+          "ID1": "pane-1",
+          "ID2": "p-1",
+          "SCHEDULES": "Miercoles: 10:00 - 12:00"
+        },
+        {
+          "TITLE": "ICPC - Siguientes pasos",
+          "AUTHOR": "",
+          "DESCRIPTION": "",
+          "ID1": "pane-1",
+          "ID2": "p-1",
+          "SCHEDULES": "Jueves: 10:00 - 12:00"
+        },
+        {
+          "TITLE": "Situación de la investigación científica en Bolivia",
+          "AUTHOR": "",
+          "DESCRIPTION": "",
+          "ID1": "pane-1",
+          "ID2": "p-1",
+          "SCHEDULES": "Viernes: 10:00 - 12:00"
+        }
+      ]
+    }],
+    "WORKSHOP": {
+      "TITLE": "Talleres",
+      "SCHEDULE": "14:30 - 16:15 (Martes, Miercoles y Viernes)",
+      "PENDING": "Los horarios se publicaran cuando cierre el proceso de envio de propuestas de charlas."
+    }
   },
   "VENUE": {
     "TITLE": "Lugar",
