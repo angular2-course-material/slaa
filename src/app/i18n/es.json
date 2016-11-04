@@ -40,21 +40,21 @@
   },
   "REGISTRATION": {
     "TITLE": "Inscripción",
-    "DESCRIPTION": "Las jornadas son gratis para todos los estudiantes que participen activamente en el evento (dando charlas o presentando sus proyectos)<br/>Los tutoriales están dirigidos principalmente a estudiatnes de pregrado y postgrado de Latinoamérica. Sin embargo, estudiantes de todas partes del mundo son bienvenidos si desean participar.<br/>Los profesionales también son bienvenidos a participar.<br/>Se recomienda a los estudiantes aplicar por una beca para asistir al evento.",
+    "DESCRIPTION": "Las jornadas son gratis para todos los estudiantes que presenten su trabajo en los talleres.<br/>Los tutoriales están dirigidos principalmente a estudiantes de pregrado y postgrado de Latinoamérica. Sin embargo, estudiantes de todas partes del mundo son bienvenidos si desean participar. Los profesionales también son bienvenidos a participar.",
     "PRICES": "Precios",
     "PRICES_SHEET": {
-      "PRICE_1": "Precio por Tutorial",
-      "PRICE_2": "Todas las charlas + KeyNotes",
-      "PRICE_3": "Paneles de Discusión",
-      "PRICE_4": "Muestra tu Proyecto",
+      "PRICE_1": "Tutorial",
+      "PRICE_2": "Charla",
       "FREE": "Gratis",
       "STUDENT": "Estudiante",
-      "PROFESIONAL": "Profesional"
+      "PROFESIONAL": "Profesional",
+      "EACH": "Cada Uno",
+      "ALL": "Todos"
     },
     "REGISTERED_PEOPLE": "Las personas inscritas en cualquier tutorial o en las charlas pueden participar en los paneles de discusión sin cargo alguno.",
     "FORM": "<b>Becas:</b> los estudiantes que quieran aplicar a una beca deben hacerlo mediante el formulario siguiente: <a href=\"http://goo.gl/forms/Yj6XJe2A1iVh7oJL2\">FORMULARIO BECAS<a>",
     "QUESTIONS": "Envíe cualquier pregunta sobre las jornadas al email:...",
-    "SCHOLARSHIPS": "La charlas son de acceso libre para cualquier persona, no es necesario registrarse.<br/>Cada tutorial se inscribe por separado. Todas las personas registradas a un tutorial, tiene acceso a el workshop, charlas y paneles de discussion.<br/>Los estudiantes que envien propuestas de charlas para el workshop seran becados para participar gratis en el tutorial de su eleccion."
+    "SCHOLARSHIPS": "El registro a un tutorial debe ser hecho con la secretaria de MEMI-UMSS. Si no vive en Cochabamba, por favor envie un correo a marcelo@memi.umss.edu.bo.<br/>Las personas que se registran en un tutorial tienen acceso libre a los talleres y paneles."
   },
   "PROGRAM": {
     "SCHEDULE": "Schedule",
