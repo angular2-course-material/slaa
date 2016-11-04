@@ -48,8 +48,8 @@
       "FREE": "Gratis",
       "STUDENT": "Estudiante",
       "PROFESIONAL": "Profesional",
-      "EACH": "Cada Uno",
-      "ALL": "Todos"
+      "EACH": "Cada uno",
+      "ALL": "Todos los tutoriales"
     },
     "REGISTERED_PEOPLE": "Las personas inscritas en cualquier tutorial o en las charlas pueden participar en los paneles de discusión sin cargo alguno.",
     "FORM": "<b>Becas:</b> los estudiantes que quieran aplicar a una beca deben hacerlo mediante el formulario siguiente: <a href=\"http://goo.gl/forms/Yj6XJe2A1iVh7oJL2\">FORMULARIO BECAS<a>",
@@ -163,7 +163,7 @@
           "DESCRIPTION": "Hoy en día, es necesario manejar herramientas para procesar y analizar datos. R es una de estas herramientas, que rápidamente se ha convertido en la lengua franca de la estadística, permitiendo escribir programas que leen, manipulan y analizan datos. En este tutorial, veremos los conceptos básicos de R. Empezaremos con variables y operaciones básicas, pasando a estructuras de datos tales como vectores, matrices, data frames y listas. También exploraremos las capacidades gráficas de R.",
           "ID1": "tuto-1",
           "ID2": "t-1",
-          "SCHEDULES": "8:00 - 9:45 (Lunes a Viernes)"
+          "SCHEDULES": "10:00 - 12:00 (Lunes a Viernes)"
         },
         {
           "TITLE": "Data Mining con Python y Jupyter",
@@ -171,7 +171,7 @@
           "DESCRIPTION": "La idea del tutorial es aprender lo básico de Python para hacer tareas de procesamiento y minería de datos. Para esto usaremos Jupyter (<a href=\"http://jupyter.org/\">http://jupyter.org/</a>) y exploraremos las ventajas de usar esta herramienta para compartir código y crear widgets interactivos para analizar datos. Al final del tutorial, trabajaremos en un proyecto en donde se utilizarán las herramientas aprendidas.",
           "ID1": "tuto-2",
           "ID2": "t-2",
-          "SCHEDULES": "14:30 - 15:15 (Lunes a Viernes)"
+          "SCHEDULES": "14:15 - 16:00 (Lunes a Viernes)"
         }
       ]
     }, {
@@ -194,14 +194,6 @@
           "SCHEDULES": "Martes: 10:00 - 12:00"
         },
         {
-          "TITLE": "Women in Research - Comunidades de Mujeres en Tecnología en Latinoamérica",
-          "AUTHOR": "",
-          "DESCRIPTION": "",
-          "ID1": "pane-1",
-          "ID2": "p-1",
-          "SCHEDULES": "Miercoles: 10:00 - 12:00"
-        },
-        {
           "TITLE": "ICPC - Siguientes pasos",
           "AUTHOR": "",
           "DESCRIPTION": "",
@@ -221,7 +213,7 @@
     }],
     "WORKSHOP": {
       "TITLE": "Talleres",
-      "SCHEDULE": "14:30 - 16:15 (Martes, Miercoles y Viernes)",
+      "SCHEDULE": "14:15 - 16:00 (Martes, Miercoles y Viernes)",
       "PENDING": "Los horarios se publicaran cuando cierre el proceso de envio de propuestas de charlas."
     }
   },
@@ -263,14 +255,14 @@
     "IMPORTANT_DATES_2": "Notificación de aceptación: 11 de Noviembre, 2016",
     "IMPORTANT_DATES_3": "Programación de presentaciones: 14 de Noviembre, 2016",
     "SUBMISSION": "Información para el envío de Resúmenes de Trabajos",
-    "SUBMISSION_DESCRIPTION": "<ul><li>Los resúmenes o abstracts de los trabajos pueden ser escritos en espa˜nol o inglés y deben ser enviados en formato PDF. a las direcciones: <ul><li>vladimir@memi.umss.edu.bo</li><li>marcelo@memi.umss.edu.bo</li></ul></li> <li>Los trabajos que se propongan deben presentar proyectos/resultados de investigación originales o reportes con experiencias relevantes. Se admiten proyectos/trabajos publicados o en proceso de evaluación para otras conferencias y/o revistas.</li><li>La extensión máxima de los resúmenes o abstracts de los proyectos/trabajos de investigación es de 1 página, incluyendo figuras, referencias bibliográficas. (márgen izq/der de 3 cm., interlineado simple y tipo de fuente Times.</li><li>Es requisito para los proponentes registrarse en las jornadas, para la presentación de los trabajos solicitados. (ver Información de registro de participantes)</li></ul>",
+    "SUBMISSION_DESCRIPTION": "<ul><li>Los resúmenes o abstracts de los trabajos pueden ser escritos en espa˜nol o inglés y deben ser enviados en formato PDF. a las direcciones: <ul><li>jsandova@dcc.uchile.cl</li><li>vladimir@memi.umss.edu.bo</li><li>marcelo@memi.umss.edu.bo</li></ul></li> <li>Los trabajos que se propongan deben presentar proyectos/resultados de investigación originales o reportes con experiencias relevantes. Se admiten proyectos/trabajos publicados o en proceso de evaluación para otras conferencias y/o revistas.</li><li>La extensión máxima de los resúmenes o abstracts de los proyectos/trabajos de investigación es de 1 página, incluyendo figuras, referencias bibliográficas. (márgen izq/der de 3 cm., interlineado simple y tipo de fuente Times.</li><li>Es requisito para los proponentes registrarse en las jornadas, para la presentación de los trabajos solicitados. (ver Información de registro de participantes)</li></ul>",
     "COMITTEE": "Comité académico",
     "COMITTEE_DESCRIPTION": "<ul><li>Vladimir Costas Jaúregui, Universidad Mayor de San Simón.</li><li>Marcelo Flores Solíz, Universidad Mayor de San Simón.</li><li>Juan Pablo Sandoval, Universidad de Chile.</li><li>Alexandre Bergel, Universidad de Chile.</li><li>Luc fabresse, Ecole des Mines de Douai, Institut Mines Telecom.</li><li>Lucio Salgado, Universidad Técnica de Oruro.</li><li>Pedro Real, Universidad de Sevilla.</li></ul>",
     "OTHER_TALKS": "Llamados adicionales",
     "SHOW_PROJECT": "Convocatoria para participar en la sesión \"Muestra tu Proyecto\"",
-    "SHOW_PROJECT_DESCRIPTION": "Invitamos a estudiantes a que presenten sus tesis u otros proyectos en que estèn trabajando. Se dará un amplio espacio para que los estudiantes puedan interactuar con los asistentes para responder preguntas, discutir sobre el proyecto y recibir sugerencias. Para participar, llena el siguiente formulario: <a href=\"http://goo.gl/forms/p6IELe4SZEVwGktp2\">FORMULARIO PROJECTOS</a>. Se invita especialmente a aquellos estudiantes que estén próximos a registrar sus temas de tesis en sus respectivas universidades.",
+    "SHOW_PROJECT_DESCRIPTION": "Invitamos a estudiantes a que presenten sus tesis u otros proyectos en que estèn trabajando. Se dará un amplio espacio para que los estudiantes puedan interactuar con los asistentes para responder preguntas, discutir sobre el proyecto y recibir sugerencias. Para participar los estudiantes necesitan enviar un resumen de charla propueta (acerca de su proyecto) a jsandova@dcc.uchile.cl y marcelo@memi.umss.edu.bo. Se invita especialmente a aquellos estudiantes que estén próximos a registrar sus temas de tesis en sus respectivas universidades.",
     "PANELS": "Convocatoria para participar en los paneles de discusión",
-    "PANELS_0": "Todos los participantes están invitados a formar parte de los paneles de discusión y formular preguntas o hacer comentarios a los panelistas durante la sesión. Docentes y profesionales son bienvenidos a postularse como panelistas. Para ser parte de los paneles necesita enviar un correo electronico a vladimir@memi.umss.edu.bo y marcelo@memi.umss.edu.bo.",
+    "PANELS_0": "Todos los participantes están invitados a formar parte de los paneles de discusión y formular preguntas o hacer comentarios a los panelistas durante la sesión. Docentes y profesionales son bienvenidos a postularse como panelistas. Para ser parte de los paneles necesita enviar un correo electronico a jsandova@dcc.uchile.cl, vladimir@memi.umss.edu.bo y marcelo@memi.umss.edu.bo.",
     "PANELS_1": "Este año las jornadas presentarán los siguientes paneles de discusión: Ingeniería de Software, Bases de Datos, ICPC y la Investigación en Bolivia",
     "STUDENTS": "Students"
   },
