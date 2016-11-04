@@ -270,10 +270,9 @@
     "SHOW_PROJECT": "Convocatoria para participar en la sesión \"Muestra tu Proyecto\"",
     "SHOW_PROJECT_DESCRIPTION": "Invitamos a estudiantes a que presenten sus tesis u otros proyectos en que estèn trabajando. Se dará un amplio espacio para que los estudiantes puedan interactuar con los asistentes para responder preguntas, discutir sobre el proyecto y recibir sugerencias. Para participar, llena el siguiente formulario: <a href=\"http://goo.gl/forms/p6IELe4SZEVwGktp2\">FORMULARIO PROJECTOS</a>. Se invita especialmente a aquellos estudiantes que estén próximos a registrar sus temas de tesis en sus respectivas universidades.",
     "PANELS": "Convocatoria para participar en los paneles de discusión",
-    "PANELS_0": "Todos los participantes están invitados a formar parte de los paneles de discusión y formular preguntas o hacer comentarios a los panelistas durante la sesión. Docentes y profesionales son bienvenidos a postularse como panelistas. Para ser parte de los paneles, por favor llenar el formulario siguiente: <a href=\"http://goo.gl/forms/IsSDfATV60uJUClg2\">FORMULARIO PANELISTAS</a>",
-    "PANELS_1": "Este año las jornadas presentarán los siguientes paneles de discusión:",
-    "PANELS_2": "Mujeres Bolivianas en Computación",
-    "PANELS_3": "La Investigación en Universidades Bolivianas"
+    "PANELS_0": "Todos los participantes están invitados a formar parte de los paneles de discusión y formular preguntas o hacer comentarios a los panelistas durante la sesión. Docentes y profesionales son bienvenidos a postularse como panelistas. Para ser parte de los paneles necesita enviar un correo electronico a vladimir@memi.umss.edu.bo y marcelo@memi.umss.edu.bo.",
+    "PANELS_1": "Este año las jornadas presentarán los siguientes paneles de discusión: Ingeniería de Software, Bases de Datos, ICPC y la Investigación en Bolivia",
+    "STUDENTS": "Students"
   },
   "BANQUET": {
     "TITLE": "Almuerzo",

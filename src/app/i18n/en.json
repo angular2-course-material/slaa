@@ -277,10 +277,9 @@
     "SHOW_PROJECT": "Call for Participation: Show your project",
     "SHOW_PROJECT_DESCRIPTION": "Students are invited to present their bachelor theses or projects. Ample time for informal and small group interactions will allow the attendees to dig deeper into pertinent questions and concerns. People that want to participate in the Show Your Project section should fill the following form <a href=\"http://goo.gl/forms/p6IELe4SZEVwGktp2\">PROJECTS FORM</a>. People that register their bachelor project proposals in the university system are very welcome to present their proposals.",
     "PANELS": "Call for Participation: Discussion Panels",
-    "PANELS_0": "All participants are welcome to participate in the discussion panels by asking questions to the panelists during the session. Professors/Industry Professionals are welcome to participate as panelists. To be part of the panel you need to fill the following form:  <a href=\"http://goo.gl/forms/IsSDfATV60uJUClg2\">PANELIST FORM</a>",
-    "PANELS_1": "This year, the school will present the following discussion panels:",
-    "PANELS_2": "Bolivian Women in Computer Science",
-    "PANELS_3": "Research in Bolivian Universities"
+    "PANELS_0": "All participants are welcome to participate in the discussion panels by asking questions to the panelists during the session. Professors/Industry Professionals are welcome to participate as panelists. To be part of the panel you need to send an email to vladimir@memi.umss.edu.bo and marcelo@memi.umss.edu.bo.",
+    "PANELS_1": "This year, the school will present the following discussion panels: Software Engineering Lectures, Databases lectures, ICPC - next steps, research in bolivia.",
+    "STUDENTS": "Students"
   },
   "BANQUET": {
     "TITLE": "Banquet",
