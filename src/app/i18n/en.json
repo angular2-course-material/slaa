@@ -31,14 +31,12 @@
     "IMPORTANT_DATES": {
       "TITLE": "Important Dates",
       "DATES": {
-        "DATE_1": "Tutorial Application deadline: to define",
-        "DATE_2": "Tutorial Acceptance Notification: to define",
-        "DATE_3": "Talk Application deadline: to define ",
-        "DATE_4": "Talk Acceptance Notification: to define",
-        "DATE_5": "Show us your project registration: to define"
+        "DATE_1": "Registration Deadline: November 11, 2016",
+        "DATE_2": "Workshop Application Deadline: November 10, 2016",
+        "DATE_3": "Workshop Acceptance Notification: November 11, 2016"
       }
     }, 
-    "DESCRIPTION_6": "The school is free o charge for studends that actively participate in the school (given a talk or showing us their projects).<br/>The tutorials are primarily targeted to committed pregraduate and postgraduate students in Latin American region, but students from any part of the world are also welcome to apply.<br/>Profesionalas also are welcome to apply.<br/>Students may consider to apply to an scholarship for all events."
+    "DESCRIPTION_6": "The school is free of charge for studends that actively participate in the workshop. The tutorials are primarily targeted to committed pregraduate and postgraduate students in Latin American region, but students from any part of the world are also welcome to apply. Profesionals also are welcome to apply."
   },
   "REGISTRATION": {
     "TITLE": "Registration",
@@ -268,9 +266,9 @@
     "TOPICS_DESCRIPTION": "Los temas de interés en los cuales deben estar enmarcados los trabajos/ proyectos/ investigaciones concluidas o parcialmente concluidas/ o proyectadas, son:",
     "TOPICS_LIST": "<ul><li>Bases de datos y sistemas para persistencia de datos.</li><li>Ingeniería de software</li><li>Patrones y Arquitectura de software</li><li>Genericidad/Seguridad/Técnicas en Lenguajes de Programación</li><li>Testing/Debugging.</li><li>Aplicación/Complejidad de Algoritmos de software</li><li>Procesamiento de Imágenes</li></ul>",
     "IMPORTANT_DATES": "Important Dates",
-    "IMPORTANT_DATES_1": "Work Registration: Octubre 21th, 2016",
-    "IMPORTANT_DATES_2": "Acceptance Notification: October 28th, 2016",
-    "IMPORTANT_DATES_3": "Presentation Schedule: October 28th, 2016",
+    "IMPORTANT_DATES_1": "Work Registration: November 10th, 2016",
+    "IMPORTANT_DATES_2": "Acceptance Notification: November 11th, 2016",
+    "IMPORTANT_DATES_3": "Presentation Schedule: November 14th, 2016",
     "SUBMISSION": "Submission Information",
     "SUBMISSION_DESCRIPTION": "<ul><li>Los resúmenes o abstracts de los trabajos pueden ser escritos en espa˜nol o inglés y deben ser enviados en formato PDF. a las direcciones: <ul><li>vladimir@memi.umss.edu.bo</li><li>marcelo@memi.umss.edu.bo</li></ul></li> <li>Los trabajos que se propongan deben presentar proyectos/resultados de investigación originales o reportes con experiencias relevantes. Se admiten proyectos/trabajos publicados o en proceso de evaluación para otras conferencias y/o revistas.</li><li>La extensión máxima de los resúmenes o abstracts de los proyectos/trabajos de investigación es de 1 página, incluyendo figuras, referencias bibliográficas. (márgen izq/der de 3 cm., interlineado simple y tipo de fuente Times.</li><li>Es requisito para los proponentes registrarse en las jornadas, para la presentación de los trabajos solicitados. (ver Información de registro de participantes)</li></ul>",
     "COMITTEE": "Committee",
