@@ -3,6 +3,7 @@ import { enableProdMode, PLATFORM_PIPES } from '@angular/core';
 import { AppComponent, environment } from './app/';
 import { APP_ROUTER_PROVIDERS } from './app/app.routes';
 import { Http, HTTP_PROVIDERS } from '@angular/http';
+import { LocationStrategy, HashLocationStrategy } from '@angular/common';
 
 import { TranslateService, TranslateLoader, TranslateStaticLoader, TranslatePipe } from 'ng2-translate/ng2-translate';
 import 'jquery';
@@ -22,6 +23,7 @@ bootstrap(AppComponent, [
     deps: [Http]
   },
   {provide: PLATFORM_PIPES, useValue: TranslatePipe, multi: true},
+  { provide: LocationStrategy, useClass: HashLocationStrategy },
   TranslateService
 ]);
 
