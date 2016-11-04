@@ -31,32 +31,30 @@
     "IMPORTANT_DATES": {
       "TITLE": "Important Dates",
       "DATES": {
-        "DATE_1": "Tutorial Application deadline: to define",
-        "DATE_2": "Tutorial Acceptance Notification: to define",
-        "DATE_3": "Talk Application deadline: to define ",
-        "DATE_4": "Talk Acceptance Notification: to define",
-        "DATE_5": "Show us your project registration: to define"
+        "DATE_1": "Registration Deadline: November 11, 2016",
+        "DATE_2": "Workshop Application Deadline: November 10, 2016",
+        "DATE_3": "Workshop Acceptance Notification: November 11, 2016"
       }
     }, 
-    "DESCRIPTION_6": "The school is free o charge for studends that actively participate in the school (given a talk or showing us their projects).<br/>The tutorials are primarily targeted to committed pregraduate and postgraduate students in Latin American region, but students from any part of the world are also welcome to apply.<br/>Profesionalas also are welcome to apply.<br/>Students may consider to apply to an scholarship for all events."
+    "DESCRIPTION_6": "The school is free of charge for studends that actively participate in the workshop. The tutorials are primarily targeted to committed pregraduate and postgraduate students in Latin American region, but students from any part of the world are also welcome to apply. Profesionals also are welcome to apply."
   },
   "REGISTRATION": {
     "TITLE": "Registration",
-    "DESCRIPTION": "The school is free o charge for studends that actively participate in the school (given a talk or showing us their projects).<br/>The tutorials are primarily targeted to committed pregraduate and postgraduate students in Latin American region, but students from any part of the world are also welcome to apply.<br/>But profesionals also are welcome to apply.<br/>Students may consider to apply to an scholarship for all events.",
+    "DESCRIPTION": "The school is free of charge for studends that present their work in the workshop.<br/>The tutorials are primarily targeted to committed pregraduate and postgraduate students in Latin American region, but students from any part of the world are also welcome to apply. But profesionals also are welcome to apply.",
     "PRICES": "Prices",
     "PRICES_SHEET": {
-      "PRICE_1": "Each Tutorial",
-      "PRICE_2": "All Talks + KeyNotes",
-      "PRICE_3": "Discussion Panels",
-      "PRICE_4": "Show us your projects",
+      "PRICE_1": "Tutorials",
+      "PRICE_2": "Talks",
       "FREE": "Free",
       "STUDENT": "Student",
-      "PROFESIONAL": "Profesional"
+      "PROFESIONAL": "Profesional",
+      "EACH": "Each One",
+      "ALL": "All"
     },
     "REGISTERED_PEOPLE": "People registered in any tutorial or in the talks can freely participate in the discussion panels.",
     "FORM": "<b>Scholarships:</b> students that want to apply for a scholarship must submit their application via filling the following Google Form: <a href=\"http://goo.gl/forms/Yj6XJe2A1iVh7oJL2\">SCHOLARSHIPS FORM<a>",
     "QUESTIONS": "Any questions related to the school must be sent to <email>",
-    "SCHOLARSHIPS": "La charlas son de acceso libre para cualquier persona, no es necesario registrarse.<br/>Cada tutorial se inscribe por separado. Todas las personas registradas a un tutorial, tiene acceso a el workshop, charlas y paneles de discussion.<br/>Los estudiantes que envien propuestas de charlas para el workshop seran becados para participar gratis en el tutorial de su eleccion."
+    "SCHOLARSHIPS": "The tutorial registration should be done at MEMI-UMSS (with the secretary). If you do not live in Cochabamba, please sent an email to marcelo@memi.umss.edu.bo.<br/>People that is register in a tutorial have free access to the workshop and panels."
   },
   "PROGRAM": {
     "SCHEDULE": "Schedule",
@@ -268,9 +266,9 @@
     "TOPICS_DESCRIPTION": "Los temas de interés en los cuales deben estar enmarcados los trabajos/ proyectos/ investigaciones concluidas o parcialmente concluidas/ o proyectadas, son:",
     "TOPICS_LIST": "<ul><li>Bases de datos y sistemas para persistencia de datos.</li><li>Ingeniería de software</li><li>Patrones y Arquitectura de software</li><li>Genericidad/Seguridad/Técnicas en Lenguajes de Programación</li><li>Testing/Debugging.</li><li>Aplicación/Complejidad de Algoritmos de software</li><li>Procesamiento de Imágenes</li></ul>",
     "IMPORTANT_DATES": "Important Dates",
-    "IMPORTANT_DATES_1": "Work Registration: Octubre 21th, 2016",
-    "IMPORTANT_DATES_2": "Acceptance Notification: October 28th, 2016",
-    "IMPORTANT_DATES_3": "Presentation Schedule: October 28th, 2016",
+    "IMPORTANT_DATES_1": "Work Registration: November 10th, 2016",
+    "IMPORTANT_DATES_2": "Acceptance Notification: November 11th, 2016",
+    "IMPORTANT_DATES_3": "Presentation Schedule: November 14th, 2016",
     "SUBMISSION": "Submission Information",
     "SUBMISSION_DESCRIPTION": "<ul><li>Los resúmenes o abstracts de los trabajos pueden ser escritos en espa˜nol o inglés y deben ser enviados en formato PDF. a las direcciones: <ul><li>vladimir@memi.umss.edu.bo</li><li>marcelo@memi.umss.edu.bo</li></ul></li> <li>Los trabajos que se propongan deben presentar proyectos/resultados de investigación originales o reportes con experiencias relevantes. Se admiten proyectos/trabajos publicados o en proceso de evaluación para otras conferencias y/o revistas.</li><li>La extensión máxima de los resúmenes o abstracts de los proyectos/trabajos de investigación es de 1 página, incluyendo figuras, referencias bibliográficas. (márgen izq/der de 3 cm., interlineado simple y tipo de fuente Times.</li><li>Es requisito para los proponentes registrarse en las jornadas, para la presentación de los trabajos solicitados. (ver Información de registro de participantes)</li></ul>",
     "COMITTEE": "Committee",
@@ -279,10 +277,9 @@
     "SHOW_PROJECT": "Call for Participation: Show your project",
     "SHOW_PROJECT_DESCRIPTION": "Students are invited to present their bachelor theses or projects. Ample time for informal and small group interactions will allow the attendees to dig deeper into pertinent questions and concerns. People that want to participate in the Show Your Project section should fill the following form <a href=\"http://goo.gl/forms/p6IELe4SZEVwGktp2\">PROJECTS FORM</a>. People that register their bachelor project proposals in the university system are very welcome to present their proposals.",
     "PANELS": "Call for Participation: Discussion Panels",
-    "PANELS_0": "All participants are welcome to participate in the discussion panels by asking questions to the panelists during the session. Professors/Industry Professionals are welcome to participate as panelists. To be part of the panel you need to fill the following form:  <a href=\"http://goo.gl/forms/IsSDfATV60uJUClg2\">PANELIST FORM</a>",
-    "PANELS_1": "This year, the school will present the following discussion panels:",
-    "PANELS_2": "Bolivian Women in Computer Science",
-    "PANELS_3": "Research in Bolivian Universities"
+    "PANELS_0": "All participants are welcome to participate in the discussion panels by asking questions to the panelists during the session. Professors/Industry Professionals are welcome to participate as panelists. To be part of the panel you need to send an email to vladimir@memi.umss.edu.bo and marcelo@memi.umss.edu.bo.",
+    "PANELS_1": "This year, the school will present the following discussion panels: Software Engineering Lectures, Databases lectures, ICPC - next steps, research in bolivia.",
+    "STUDENTS": "Students"
   },
   "BANQUET": {
     "TITLE": "Banquet",

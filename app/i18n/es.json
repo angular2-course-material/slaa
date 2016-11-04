@@ -31,32 +31,30 @@
     "IMPORTANT_DATES": {
       "TITLE": "Fechas Importantes",
       "DATES": {
-        "DATE_1": "Fecha límite para postular un tutorial: (Por definir)",
-        "DATE_2": "Fecha de notificación de los tutoriales aceptados: (Por definir)",
-        "DATE_3": "Fecha límite para postular una charla:(Por definir)",
-        "DATE_4": "Fecha de notificación de las charlas aceptadas: (Por definir)",
-        "DATE_5": "Fecha límite para registrarse en la sesión \"Muestra tu Proyecto\": (Por definir)"
+        "DATE_1": "Fecha límite para registro: 11 de Noviembre, 2016",
+        "DATE_2": "Fecha límite de aplicacion a talleres: 10 de Noviembre, 2016",
+        "DATE_3": "Fecha de notificacion de aceptacion a talleres: 11 de Noviembre, 2016"
       }
     }, 
-    "DESCRIPTION_6": " "
+    "DESCRIPTION_6": "La escuela no tiene costo para estudiantes que participen activamente en los talleres. Los tutoriales estan enfocados a estudiantes comprometidos de pregrado y postgrado en Latinoamérica, pero estudiantes de cualquier parte del mundo pueden participar. Los profesionales tambien estan bienvenidos a participar."
   },
   "REGISTRATION": {
     "TITLE": "Inscripción",
-    "DESCRIPTION": "Las jornadas son gratis para todos los estudiantes que participen activamente en el evento (dando charlas o presentando sus proyectos)<br/>Los tutoriales están dirigidos principalmente a estudiatnes de pregrado y postgrado de Latinoamérica. Sin embargo, estudiantes de todas partes del mundo son bienvenidos si desean participar.<br/>Los profesionales también son bienvenidos a participar.<br/>Se recomienda a los estudiantes aplicar por una beca para asistir al evento.",
+    "DESCRIPTION": "Las jornadas son gratis para todos los estudiantes que presenten su trabajo en los talleres.<br/>Los tutoriales están dirigidos principalmente a estudiantes de pregrado y postgrado de Latinoamérica. Sin embargo, estudiantes de todas partes del mundo son bienvenidos si desean participar. Los profesionales también son bienvenidos a participar.",
     "PRICES": "Precios",
     "PRICES_SHEET": {
-      "PRICE_1": "Precio por Tutorial",
-      "PRICE_2": "Todas las charlas + KeyNotes",
-      "PRICE_3": "Paneles de Discusión",
-      "PRICE_4": "Muestra tu Proyecto",
+      "PRICE_1": "Tutorial",
+      "PRICE_2": "Charla",
       "FREE": "Gratis",
       "STUDENT": "Estudiante",
-      "PROFESIONAL": "Profesional"
+      "PROFESIONAL": "Profesional",
+      "EACH": "Cada Uno",
+      "ALL": "Todos"
     },
     "REGISTERED_PEOPLE": "Las personas inscritas en cualquier tutorial o en las charlas pueden participar en los paneles de discusión sin cargo alguno.",
     "FORM": "<b>Becas:</b> los estudiantes que quieran aplicar a una beca deben hacerlo mediante el formulario siguiente: <a href=\"http://goo.gl/forms/Yj6XJe2A1iVh7oJL2\">FORMULARIO BECAS<a>",
     "QUESTIONS": "Envíe cualquier pregunta sobre las jornadas al email:...",
-    "SCHOLARSHIPS": "La charlas son de acceso libre para cualquier persona, no es necesario registrarse.<br/>Cada tutorial se inscribe por separado. Todas las personas registradas a un tutorial, tiene acceso a el workshop, charlas y paneles de discussion.<br/>Los estudiantes que envien propuestas de charlas para el workshop seran becados para participar gratis en el tutorial de su eleccion."
+    "SCHOLARSHIPS": "El registro a un tutorial debe ser hecho con la secretaria de MEMI-UMSS. Si no vive en Cochabamba, por favor envie un correo a marcelo@memi.umss.edu.bo.<br/>Las personas que se registran en un tutorial tienen acceso libre a los talleres y paneles."
   },
   "PROGRAM": {
     "SCHEDULE": "Schedule",
@@ -261,9 +259,9 @@
     "TOPICS_DESCRIPTION": "Los temas de interés en los cuales deben estar enmarcados los trabajos/ proyectos/ investigaciones concluidas o parcialmente concluidas/ o proyectadas, son:",
     "TOPICS_LIST": "<ul><li>Bases de datos y sistemas para persistencia de datos.</li><li>Ingeniería de software</li><li>Patrones y Arquitectura de software</li><li>Genericidad/Seguridad/Técnicas en Lenguajes de Programación</li><li>Testing/Debugging.</li><li>Aplicación/Complejidad de Algoritmos de software</li><li>Procesamiento de Imágenes</li></ul>",
     "IMPORTANT_DATES": "Fechas Importantes",
-    "IMPORTANT_DATES_1": "Registro de trabajos: 21 de Octubre 2016",
-    "IMPORTANT_DATES_2": "Notificación de aceptación: 28 de Octubre 2016",
-    "IMPORTANT_DATES_3": "Programación de presentaciones: 28 de Octubre 2016",
+    "IMPORTANT_DATES_1": "Registro de trabajos: 10 de Noviembre, 2016",
+    "IMPORTANT_DATES_2": "Notificación de aceptación: 11 de Noviembre, 2016",
+    "IMPORTANT_DATES_3": "Programación de presentaciones: 14 de Noviembre, 2016",
     "SUBMISSION": "Información para el envío de Resúmenes de Trabajos",
     "SUBMISSION_DESCRIPTION": "<ul><li>Los resúmenes o abstracts de los trabajos pueden ser escritos en espa˜nol o inglés y deben ser enviados en formato PDF. a las direcciones: <ul><li>vladimir@memi.umss.edu.bo</li><li>marcelo@memi.umss.edu.bo</li></ul></li> <li>Los trabajos que se propongan deben presentar proyectos/resultados de investigación originales o reportes con experiencias relevantes. Se admiten proyectos/trabajos publicados o en proceso de evaluación para otras conferencias y/o revistas.</li><li>La extensión máxima de los resúmenes o abstracts de los proyectos/trabajos de investigación es de 1 página, incluyendo figuras, referencias bibliográficas. (márgen izq/der de 3 cm., interlineado simple y tipo de fuente Times.</li><li>Es requisito para los proponentes registrarse en las jornadas, para la presentación de los trabajos solicitados. (ver Información de registro de participantes)</li></ul>",
     "COMITTEE": "Comité académico",
@@ -272,10 +270,9 @@
     "SHOW_PROJECT": "Convocatoria para participar en la sesión \"Muestra tu Proyecto\"",
     "SHOW_PROJECT_DESCRIPTION": "Invitamos a estudiantes a que presenten sus tesis u otros proyectos en que estèn trabajando. Se dará un amplio espacio para que los estudiantes puedan interactuar con los asistentes para responder preguntas, discutir sobre el proyecto y recibir sugerencias. Para participar, llena el siguiente formulario: <a href=\"http://goo.gl/forms/p6IELe4SZEVwGktp2\">FORMULARIO PROJECTOS</a>. Se invita especialmente a aquellos estudiantes que estén próximos a registrar sus temas de tesis en sus respectivas universidades.",
     "PANELS": "Convocatoria para participar en los paneles de discusión",
-    "PANELS_0": "Todos los participantes están invitados a formar parte de los paneles de discusión y formular preguntas o hacer comentarios a los panelistas durante la sesión. Docentes y profesionales son bienvenidos a postularse como panelistas. Para ser parte de los paneles, por favor llenar el formulario siguiente: <a href=\"http://goo.gl/forms/IsSDfATV60uJUClg2\">FORMULARIO PANELISTAS</a>",
-    "PANELS_1": "Este año las jornadas presentarán los siguientes paneles de discusión:",
-    "PANELS_2": "Mujeres Bolivianas en Computación",
-    "PANELS_3": "La Investigación en Universidades Bolivianas"
+    "PANELS_0": "Todos los participantes están invitados a formar parte de los paneles de discusión y formular preguntas o hacer comentarios a los panelistas durante la sesión. Docentes y profesionales son bienvenidos a postularse como panelistas. Para ser parte de los paneles necesita enviar un correo electronico a vladimir@memi.umss.edu.bo y marcelo@memi.umss.edu.bo.",
+    "PANELS_1": "Este año las jornadas presentarán los siguientes paneles de discusión: Ingeniería de Software, Bases de Datos, ICPC y la Investigación en Bolivia",
+    "STUDENTS": "Students"
   },
   "BANQUET": {
     "TITLE": "Almuerzo",
