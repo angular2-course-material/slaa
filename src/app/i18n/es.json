@@ -13,7 +13,7 @@
   "BANNER": {
     "TITLE_PT1": "Jornadas de Investigación de Ciencias",
     "TITLE_PT2": "de la Computación",
-    "DATES": "24 - 28 de Noviembre"
+    "DATES": "14 - 18 de Noviembre"
   },
   "INTRO": {
     "TITLE": "Acerca de ILAS 2016",
@@ -23,7 +23,7 @@
     "DESCRIPTION_4": "Hay diferentes eventos donde participar:",
     "EVENTS": {
       "EVENT_1": "<b>Tutoriales:</b> Los tutoriales cubrirán temas básicos sobre lenguajes de programación e ingeniería de software. Los tutoriales serán dictados por expertos internacionales del área.",
-      "EVENT_2": "<b>Keynotes:</b> Los keynotes cubrirán temas avanzados en ingeniería de software.",
+      "EVENT_2": "<b>Charlas:</b> Los charlas cubrirán temas avanzados en ingeniería de software.",
       "EVENT_4": "<b>Talleres:</b> Las Jornadas proveen cupos a los participantes para que puedan mostrar sus trabajos.  Los participantes podrán discutir los objetivos, metodología y resultados de sus proyectos en curso y recibirán una guía y opiniones que les permitirán mejorar su trabajo. Invitamos a los estudiantes a que presenten sus tesis o proyectos. Se dará un amplio espacio para que los estudiantes puedan interactuar con los asistentes para responder preguntas, discutir sobre el proyecto y recibir sugerencias.",
       "EVENT_5": "<b>Paneles de discusión:</b> Las jornadas incluirán diferentes paneles donde se discutirá temas como: Ingenieria de Software, Bases de Datos, ICPC y la Investigacion en Bolivia."
     },
@@ -54,12 +54,12 @@
     "REGISTERED_PEOPLE": "Las personas inscritas en cualquier tutorial o en las charlas pueden participar en los paneles de discusión sin cargo alguno.",
     "FORM": "<b>Becas:</b> los estudiantes que quieran aplicar a una beca deben hacerlo mediante el formulario siguiente: <a href=\"http://goo.gl/forms/Yj6XJe2A1iVh7oJL2\">FORMULARIO BECAS<a>",
     "QUESTIONS": "Envíe cualquier pregunta sobre las jornadas al email:...",
-    "SCHOLARSHIPS": "El registro a un tutorial debe ser hecho con la secretaria de MEMI-UMSS. Si no vive en Cochabamba, por favor envie un correo a marcelo@memi.umss.edu.bo.<br/>Las personas que se registran en un tutorial tienen acceso libre a los talleres y paneles."
+    "SCHOLARSHIPS": "El registro a un tutorial debe ser hecho con la secretaria de MEMI-UMSS. Si no vive en Cochabamba, por favor envie un correo a jsandova@dcc.uchile.cl y marcelo@memi.umss.edu.bo.<br/>Las personas que se registran en un tutorial tienen acceso libre a los talleres y paneles."
   },
   "PROGRAM": {
     "SCHEDULE": "Schedule",
     "TALKS": {
-      "TITLE": "Keynotes y Charlas",
+      "TITLE": "Charlas",
       "SCHEDULE": "16:30 - 18:00 (Lunes a Viernes)",
       "SESSIONS": [
         {
@@ -81,7 +81,7 @@
             },
             {
               "TITLE": "Software Visualization",
-              "AUTHOR": "",
+              "AUTHOR": "Alexandre Bergel (Online)",
               "DESCRIPTION": "",
               "ID1": "keynote-10",
               "ID2": "kn-10"
@@ -117,9 +117,9 @@
               "ID1": "keynote-6",
               "ID2": "kn-6"
             }, {
-              "TITLE": "Idioms",
-              "AUTHOR": "Marcelo",
-              "DESCRIPTION": "",
+              "TITLE": "Pharo Reflective Features to Leverage Robot Development",
+              "AUTHOR": "Luc Fabresse",
+              "DESCRIPTION": "En esta charla, se presentara algunas avanzadas caracteristicas de Pharo y se hablará de como usamos estas caracteristicas en investigación y en el desarrollo de aplicaciones para robots mobiles",
               "ID1": "keynote-9",
               "ID2": "kn-9"
             }
@@ -150,20 +150,12 @@
       "NAME": "Tutoriales",
       "TALKS": [
         {
-          "TITLE": "Web Pharo",
+          "TITLE": "Your Web Application in Pharo",
           "AUTHOR": "Luc Fabresse & Juraj Kubelka",
-          "DESCRIPTION": "",
+          "DESCRIPTION": "Construir una aplicación web puede ser complejo y usualmente involucra diferentes tecnologias. En este tutorial, tu construiras una aplicación web para manejar blogs/posts usando Pharo Web y los frameworks Seaside, Magritte y Voyage. Descubiras parte de estos frameworks progresivamente, lo cual sera un experiencia diferente, poderosa y divertida para desarrollar aplicaciones web.",
           "ID1": "tuto-0",
           "ID2": "t-0",
           "SCHEDULES": "8:00 - 9:45 (Lunes a Viernes)"
-        },
-        {
-          "TITLE": "Programación Estadística",
-          "AUTHOR": "Jocelyn Simmonds & Yasett Acurana",
-          "DESCRIPTION": "Hoy en día, es necesario manejar herramientas para procesar y analizar datos. R es una de estas herramientas, que rápidamente se ha convertido en la lengua franca de la estadística, permitiendo escribir programas que leen, manipulan y analizan datos. En este tutorial, veremos los conceptos básicos de R. Empezaremos con variables y operaciones básicas, pasando a estructuras de datos tales como vectores, matrices, data frames y listas. También exploraremos las capacidades gráficas de R.",
-          "ID1": "tuto-1",
-          "ID2": "t-1",
-          "SCHEDULES": "10:00 - 12:00 (Lunes a Viernes)"
         },
         {
           "TITLE": "Data Mining con Python y Jupyter",
@@ -171,6 +163,14 @@
           "DESCRIPTION": "La idea del tutorial es aprender lo básico de Python para hacer tareas de procesamiento y minería de datos. Para esto usaremos Jupyter (<a href=\"http://jupyter.org/\">http://jupyter.org/</a>) y exploraremos las ventajas de usar esta herramienta para compartir código y crear widgets interactivos para analizar datos. Al final del tutorial, trabajaremos en un proyecto en donde se utilizarán las herramientas aprendidas.",
           "ID1": "tuto-2",
           "ID2": "t-2",
+          "SCHEDULES": "10:00 - 12:00 (Lunes a Viernes)"
+        },
+        {
+          "TITLE": "Programación Estadística",
+          "AUTHOR": "Jocelyn Simmonds & Yasett Acurana",
+          "DESCRIPTION": "Hoy en día, es necesario manejar herramientas para procesar y analizar datos. R es una de estas herramientas, que rápidamente se ha convertido en la lengua franca de la estadística, permitiendo escribir programas que leen, manipulan y analizan datos. En este tutorial, veremos los conceptos básicos de R. Empezaremos con variables y operaciones básicas, pasando a estructuras de datos tales como vectores, matrices, data frames y listas. También exploraremos las capacidades gráficas de R.",
+          "ID1": "tuto-1",
+          "ID2": "t-1",
           "SCHEDULES": "14:15 - 16:00 (Lunes a Viernes)"
         }
       ]
@@ -260,11 +260,11 @@
     "COMITTEE_DESCRIPTION": "<ul><li>Vladimir Costas Jaúregui, Universidad Mayor de San Simón.</li><li>Marcelo Flores Solíz, Universidad Mayor de San Simón.</li><li>Juan Pablo Sandoval, Universidad de Chile.</li><li>Alexandre Bergel, Universidad de Chile.</li><li>Luc fabresse, Ecole des Mines de Douai, Institut Mines Telecom.</li><li>Lucio Salgado, Universidad Técnica de Oruro.</li><li>Pedro Real, Universidad de Sevilla.</li></ul>",
     "OTHER_TALKS": "Llamados adicionales",
     "SHOW_PROJECT": "Convocatoria para participar en la sesión \"Muestra tu Proyecto\"",
-    "SHOW_PROJECT_DESCRIPTION": "Invitamos a estudiantes a que presenten sus tesis u otros proyectos en que estèn trabajando. Se dará un amplio espacio para que los estudiantes puedan interactuar con los asistentes para responder preguntas, discutir sobre el proyecto y recibir sugerencias. Para participar los estudiantes necesitan enviar un resumen de charla propueta (acerca de su proyecto) a jsandova@dcc.uchile.cl y marcelo@memi.umss.edu.bo. Se invita especialmente a aquellos estudiantes que estén próximos a registrar sus temas de tesis en sus respectivas universidades.",
+    "SHOW_PROJECT_DESCRIPTION": "Invitamos a estudiantes a que presenten sus tesis u otros proyectos en que estèn trabajando. Se dará un amplio espacio para que los estudiantes puedan interactuar con los asistentes para responder preguntas, discutir sobre el proyecto y recibir sugerencias. Para participar los estudiantes necesitan enviar un resumen del trabajo que desean presentar a jsandova@dcc.uchile.cl y marcelo@memi.umss.edu.bo. Se invita especialmente a aquellos estudiantes que estén próximos a registrar sus temas de tesis en sus respectivas universidades.",
     "PANELS": "Convocatoria para participar en los paneles de discusión",
     "PANELS_0": "Todos los participantes están invitados a formar parte de los paneles de discusión y formular preguntas o hacer comentarios a los panelistas durante la sesión. Docentes y profesionales son bienvenidos a postularse como panelistas. Para ser parte de los paneles necesita enviar un correo electronico a jsandova@dcc.uchile.cl, vladimir@memi.umss.edu.bo y marcelo@memi.umss.edu.bo.",
     "PANELS_1": "Este año las jornadas presentarán los siguientes paneles de discusión: Ingeniería de Software, Bases de Datos, ICPC y la Investigación en Bolivia",
-    "STUDENTS": "Students"
+    "STUDENTS": "Estudiantes"
   },
   "BANQUET": {
     "TITLE": "Almuerzo",

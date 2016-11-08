@@ -11,9 +11,9 @@
     "BANQUET": "Banquet"
   },
   "BANNER": {
-    "TITLE_PT1": "Summer School on Languages",
-    "TITLE_PT2": "and Applications",
-    "DATES": "November 24th - 28th"
+    "TITLE_PT1": "Summer School in Computer",
+    "TITLE_PT2": "Science",
+    "DATES": "November 14th - 18th"
   },
   "INTRO": {
     "TITLE": "About SSLA 2016",
@@ -23,7 +23,7 @@
     "DESCRIPTION_4": "There are different events where you can get involved:",
     "EVENTS": {
       "EVENT_1": "<b>Tutorials:</b> The tutorials will cover basic topics about programming languages and software enginnering. The tutorials are given by international experts in the field.",
-      "EVENT_2": "<b>Keynotes:</b> The keynotes will cover advances topics on software engineering.",
+      "EVENT_2": "<b>Talks:</b> The talks will cover advances topics on software engineering.",
       "EVENT_4": "<b>Workshop:</b> The school provides slots to get the opportunity to participants shows their work. Participants will be able to discuss their goals, methods, and results at an early stage in their research (or projects) and receive useful guidance and feedback on various aspects of their work. Students are invited to present their bachelor theses or projects. Ample time for informal and small group interactions will allow the attendees to dig deeper into pertinent questions and concerns.",
       "EVENT_5": "<b>Discussion Panels:</b> The school will host different discussion panels about different topics: Software Engineering, Data Bases, ICPC - new directions and Research in Bolivia"
     },
@@ -54,12 +54,12 @@
     "REGISTERED_PEOPLE": "People registered in any tutorial or in the talks can freely participate in the discussion panels.",
     "FORM": "<b>Scholarships:</b> students that want to apply for a scholarship must submit their application via filling the following Google Form: <a href=\"http://goo.gl/forms/Yj6XJe2A1iVh7oJL2\">SCHOLARSHIPS FORM<a>",
     "QUESTIONS": "Any questions related to the school must be sent to <email>",
-    "SCHOLARSHIPS": "The tutorial registration should be done at MEMI-UMSS (with the secretary). If you do not live in Cochabamba, please sent an email to marcelo@memi.umss.edu.bo.<br/>People that is register in a tutorial have free access to the workshop and panels."
+    "SCHOLARSHIPS": "The tutorial registration should be done at MEMI-UMSS (with the secretary). If you do not live in Cochabamba, please sent an email to jsandova@dcc.uchile.cl and marcelo@memi.umss.edu.bo.<br/>People that is register in a tutorial have free access to the workshop and panels."
   },
   "PROGRAM": {
     "SCHEDULE": "Schedule",
     "TALKS": {
-      "TITLE": "Talks and Keynotes",
+      "TITLE": "Talks",
       "SCHEDULE": "16:00 - 17:30 (Monday to Friday)",
       "SESSIONS": [
         {
@@ -81,7 +81,7 @@
             },
             {
               "TITLE": "Software Visualization",
-              "AUTHOR": "",
+              "AUTHOR": "Alexandre Bergel (online)",
               "DESCRIPTION": "",
               "ID1": "keynote-10",
               "ID2": "kn-10"
@@ -117,9 +117,9 @@
               "ID1": "keynote-6",
               "ID2": "kn-6"
             }, {
-              "TITLE": "Idioms",
-              "AUTHOR": "Marcelo",
-              "DESCRIPTION": "",
+              "TITLE": "Pharo Reflective Features to Leverage Robot Development",
+              "AUTHOR": "Luc Fabresse",
+              "DESCRIPTION": "In this talk, I will present some advanced reflective features of Pharo and then give insights on how we use them in our research to leverage the development of mobile robots applications. ",
               "ID1": "keynote-9",
               "ID2": "kn-9"
             }
@@ -150,20 +150,12 @@
       "NAME": "Tutorials",
       "TALKS": [
         {
-          "TITLE": "Web Pharo",
+          "TITLE": "Your Web Application in Pharo",
           "AUTHOR": "Luc Fabresse & Juraj Kubelka",
-          "DESCRIPTION": "",
+          "DESCRIPTION": "Building Web applications can be complex and usually involves many differents technologies. In this tutorial, you will build a web application to manage blog posts using the Pharo Web stack that includes Seaside, Magritte and Voyage frameworks. You will discover part of these frameworks progressively and experience a different, powerful and yet fun way to develop full-fledged web applications.",
           "ID1": "tuto-0",
           "ID2": "t-0",
           "SCHEDULES": "8:00 - 9:45 (Monday to Friday)"
-        },
-        {
-          "TITLE": "Statistics Programming",
-          "AUTHOR": "Jocelyn Simmonds & Yasett Acurana",
-          "DESCRIPTION": "Nowadays, it is necessary to use tools to process and analyse data. R es one of these tools, that has quickly become in the language of statistics, allowing us to write programs that read, handle and analyse data. In this tutorial, we will cover the basic concepts of R. We will start with variables and basic operations, and then continue with data structures like vectors, matrices, data frames and lists. We will also explore the graphic capacities of R.",
-          "ID1": "tuto-1",
-          "ID2": "t-1",
-          "SCHEDULES": "10:00 - 12:00 (Monday to Friday)"
         },
         {
           "TITLE": "Data Mining con Python y Jupyter",
@@ -171,6 +163,14 @@
           "DESCRIPTION": "La idea del tutorial es aprender lo básico de Python para hacer tareas de procesamiento y minería de datos. Para esto usaremos Jupyter (<a href=\"http://jupyter.org/\">http://jupyter.org/</a>) y exploraremos las ventajas de usar esta herramienta para compartir código y crear widgets interactivos para analizar datos. Al final del tutorial, trabajaremos en un proyecto en donde se utilizarán las herramientas aprendidas.",
           "ID1": "tuto-2",
           "ID2": "t-2",
+          "SCHEDULES": "10:00 - 12:00 (Monday to Friday)"
+        },
+        {
+          "TITLE": "Statistics Programming",
+          "AUTHOR": "Jocelyn Simmonds & Yasett Acurana",
+          "DESCRIPTION": "Nowadays, it is necessary to use tools to process and analyse data. R es one of these tools, that has quickly become in the language of statistics, allowing us to write programs that read, handle and analyse data. In this tutorial, we will cover the basic concepts of R. We will start with variables and basic operations, and then continue with data structures like vectors, matrices, data frames and lists. We will also explore the graphic capacities of R.",
+          "ID1": "tuto-1",
+          "ID2": "t-1",
           "SCHEDULES": "14:15 - 16:00 (Monday to Friday)"
         }
       ]
